@@ -766,6 +766,12 @@
     },
     "done": false
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-15 03:20:45 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-06-13 05:16:31 +0000"
