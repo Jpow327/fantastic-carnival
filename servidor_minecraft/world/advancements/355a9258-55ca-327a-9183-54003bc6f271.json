@@ -108,6 +108,18 @@
     },
     "done": true
   },
+  "majruszsaccessories:discount_voucher": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-15 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-06-15 03:06:41 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-06-06 03:15:11 +0000"
@@ -523,6 +535,12 @@
     },
     "done": true
   },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "fletcher": "2025-06-15 03:06:41 +0000"
+    },
+    "done": false
+  },
   "totw_modded:root": {
     "criteria": {
       "sample_trigger": "2025-06-06 03:10:24 +0000"
@@ -712,6 +730,12 @@
   "comforts:hammock_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-06-15 03:07:27 +0000"
     },
     "done": true
   },
@@ -1632,6 +1656,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-15 03:06:41 +0000"
+    },
+    "done": true
+  },
   "vinery:shelf": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1676,6 +1706,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "fletchingtable": "2025-06-15 03:02:17 +0000",
       "smithingtable": "2025-06-06 03:27:36 +0000",
       "blastfurnace": "2025-06-06 03:27:36 +0000",
       "lectern": "2025-06-13 02:32:19 +0000"
@@ -2169,6 +2200,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-06-15 03:04:11 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -2207,7 +2244,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-06-15 02:37:50 +0000"
+      "target": "2025-06-15 03:08:07 +0000"
     },
     "done": false
   },
