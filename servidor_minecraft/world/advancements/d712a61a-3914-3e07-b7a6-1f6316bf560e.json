@@ -1,4 +1,10 @@
 {
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-06-15 03:37:46 +0000"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -1267,6 +1273,12 @@
     },
     "done": true
   },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-06-15 03:36:50 +0000"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -2012,6 +2024,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-06-15 03:33:52 +0000"
     },
     "done": true
   },
