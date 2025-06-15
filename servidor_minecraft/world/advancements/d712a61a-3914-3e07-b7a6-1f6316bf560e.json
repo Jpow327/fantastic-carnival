@@ -216,6 +216,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-06-15 03:44:08 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-06-10 03:33:18 +0000"
@@ -579,6 +585,12 @@
     },
     "done": false
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-15 03:44:08 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_pillager_camp": "2025-06-06 04:16:47 +0000"
@@ -708,6 +720,12 @@
   "vinery:wine_bottle": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-06-15 03:57:35 +0000"
     },
     "done": true
   },
@@ -1201,6 +1219,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2025-06-15 03:56:39 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/dragon_bow": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -1306,6 +1330,12 @@
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2025-06-13 02:51:05 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:arcanethyst": {
+    "criteria": {
+      "requirement": "2025-06-15 03:59:27 +0000"
     },
     "done": true
   },
@@ -1741,8 +1771,10 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "grindstone": "2025-06-15 03:42:27 +0000",
       "smithingtable": "2025-06-11 05:05:23 +0000",
-      "blastfurnace": "2025-06-10 03:26:33 +0000"
+      "blastfurnace": "2025-06-10 03:26:33 +0000",
+      "lectern": "2025-06-15 03:42:37 +0000"
     },
     "done": false
   },
@@ -1797,6 +1829,12 @@
   "cisco_mod:ancient_craftmanship": {
     "criteria": {
       "ancient_craftmanship": "2025-06-11 05:09:44 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-06-15 03:59:47 +0000"
     },
     "done": true
   },
@@ -2352,6 +2390,12 @@
   "majruszsaccessories:lucky_rock": {
     "criteria": {
       "picked_up_accessory": "2025-06-13 02:05:23 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-15 03:44:08 +0000"
     },
     "done": true
   },

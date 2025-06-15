@@ -4195,3 +4195,97 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [15Jun2025 03:43:16.406] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
 [15Jun2025 03:43:16.406] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
 [15Jun2025 03:44:08.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has reached the goal [Quaint Scribe]
+[15Jun2025 03:45:00.853] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[15Jun2025 03:45:09.570] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 03:45:09.570] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[15Jun2025 03:45:33.818] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 03:45:33.818] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 03:45:33.818] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[15Jun2025 03:45:34.172] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 03:45:34.172] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[15Jun2025 03:45:34.172] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 03:45:34.172] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 03:45:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Masquerade]
+[15Jun2025 03:45:57.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> man que asco
+[15Jun2025 03:46:01.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ?
+[15Jun2025 03:46:07.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> no se le puede meter piedras a esta armor
+[15Jun2025 03:46:10.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> bruh
+[15Jun2025 03:46:10.822] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 03:46:10.822] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 03:46:10.822] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[15Jun2025 03:46:15.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan
+[15Jun2025 03:46:18.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> nesecita runas
+[15Jun2025 03:46:22.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> digo
+[15Jun2025 03:46:23.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> slots
+[15Jun2025 03:46:31.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> y eso como se saca
+[15Jun2025 03:46:39.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> creo que se llama sigil o algo asi
+[15Jun2025 03:46:45.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> un item pa dar espacio a eso
+[15Jun2025 03:46:49.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> maximo 44
+[15Jun2025 03:46:50.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> 4*
+[15Jun2025 03:46:57.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> superior sigil of socketing
+[15Jun2025 03:47:05.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> otro dung jeff
+[15Jun2025 03:47:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> vengan si quieren
+[15Jun2025 03:47:14.270] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 03:47:14.270] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 03:47:14.270] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[15Jun2025 03:47:14.270] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 03:47:29.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> voy
+[15Jun2025 03:47:42.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> es el 1er piso
+[15Jun2025 03:48:29.300] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30050, l='ServerLevel[world]', x=1768.50, y=74.00, z=2623.50]
+[15Jun2025 03:48:54.902] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30110, l='ServerLevel[world]', x=1785.50, y=78.00, z=2610.50]
+[15Jun2025 03:49:21.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> jeff hay un comando pa quitar el pvp
+[15Jun2025 03:49:38.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> lo va hacer?
+[15Jun2025 03:49:40.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> paselo
+[15Jun2025 03:49:54.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> ./gamerule pvp false
+[15Jun2025 03:49:59.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ese es
+[15Jun2025 03:50:43.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ya?
+[15Jun2025 03:50:44.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30357, l='ServerLevel[world]', x=1753.50, y=77.00, z=2595.50]
+[15Jun2025 03:50:52.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> mire discord
+[15Jun2025 03:51:12.349] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30818, l='ServerLevel[world]', x=1720.50, y=77.00, z=2598.50]
+[15Jun2025 03:51:15.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30821, l='ServerLevel[world]', x=1782.50, y=75.00, z=2604.50]
+[15Jun2025 03:51:16.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan lptm
+[15Jun2025 03:51:17.299] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30833, l='ServerLevel[world]', x=1710.50, y=72.00, z=2565.50]
+[15Jun2025 03:51:50.698] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30888, l='ServerLevel[world]', x=1712.50, y=73.00, z=2579.50]
+[15Jun2025 03:51:53.398] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30890, l='ServerLevel[world]', x=1767.50, y=74.00, z=2622.50]
+[15Jun2025 03:51:54.349] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30891, l='ServerLevel[world]', x=1733.50, y=79.00, z=2608.50]
+[15Jun2025 03:52:09.348] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30922, l='ServerLevel[world]', x=1766.50, y=74.00, z=2623.50]
+[15Jun2025 03:52:29.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30991, l='ServerLevel[world]', x=1787.50, y=78.00, z=2610.50]
+[15Jun2025 03:52:37.300] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31028, l='ServerLevel[world]', x=1712.50, y=73.00, z=2578.50]
+[15Jun2025 03:52:50.049] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31096, l='ServerLevel[world]', x=1781.50, y=75.00, z=2604.50]
+[15Jun2025 03:53:13.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> que raro, en mi sv funcionaba
+[15Jun2025 03:53:15.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> man me salvo el home
+[15Jun2025 03:53:20.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> XD
+[15Jun2025 03:53:41.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31642, l='ServerLevel[world]', x=1714.50, y=73.00, z=2578.50]
+[15Jun2025 03:54:17.099] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31782, l='ServerLevel[world]', x=1780.50, y=75.00, z=2606.50]
+[15Jun2025 03:54:48.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ta dificil encontrar ese dragon breath
+[15Jun2025 03:54:53.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan
+[15Jun2025 03:54:56.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> es en el end XD
+[15Jun2025 03:55:02.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31940, l='ServerLevel[world]', x=1892.50, y=72.00, z=2745.50]
+[15Jun2025 03:55:15.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ay wey
+[15Jun2025 03:56:08.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/32165, l='ServerLevel[world]', x=1709.50, y=72.00, z=2563.50]
+[15Jun2025 03:56:41.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> jeff
+[15Jun2025 03:56:42.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> que es esto
+[15Jun2025 03:56:55.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/32334, l='ServerLevel[world]', x=1751.50, y=77.00, z=2593.50]
+[15Jun2025 03:56:57.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Thunder Time]
+[15Jun2025 03:57:24.199] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/32397, l='ServerLevel[world]', x=1776.50, y=72.00, z=2632.50]
+[15Jun2025 03:57:35.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Warped]
+[15Jun2025 03:58:02.848] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/32508, l='ServerLevel[world]', x=1708.50, y=72.00, z=2563.50]
+[15Jun2025 03:58:17.049] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/32528, l='ServerLevel[world]', x=1720.50, y=77.00, z=2597.50]
+[15Jun2025 03:58:43.799] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/32626, l='ServerLevel[world]', x=1787.50, y=78.00, z=2608.50]
+[15Jun2025 03:59:00.298] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/32671, l='ServerLevel[world]', x=1719.50, y=77.00, z=2597.50]
+[15Jun2025 03:59:18.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> lleva esmeralda tambien juan
+[15Jun2025 03:59:27.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Arcane Empowerment]
+[15Jun2025 03:59:47.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Fortune Seeker]
+[15Jun2025 04:00:06.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/33315, l='ServerLevel[world]', x=1776.50, y=72.00, z=2630.50]
+[15Jun2025 04:00:13.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/33325, l='ServerLevel[world]', x=1718.50, y=77.00, z=2599.50]
+[15Jun2025 04:00:31.150] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/33379, l='ServerLevel[world]', x=1731.50, y=79.00, z=2607.50]
+[15Jun2025 04:00:54.167] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[15Jun2025 04:00:54.167] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 04:00:54.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 04:00:54.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[15Jun2025 04:01:56.150] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/33609, l='ServerLevel[world]', x=1753.50, y=77.00, z=2594.50]
+[15Jun2025 04:02:54.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> a
+[15Jun2025 04:02:55.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> perdon
+[15Jun2025 04:03:01.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/33810, l='ServerLevel[world]', x=1713.50, y=73.00, z=2578.50]
+[15Jun2025 04:03:21.148] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/33885, l='ServerLevel[world]', x=1732.50, y=79.00, z=2607.50]
+[15Jun2025 04:05:18.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Blast Protection Not Included]

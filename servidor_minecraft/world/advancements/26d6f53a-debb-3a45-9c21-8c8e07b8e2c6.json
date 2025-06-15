@@ -1695,6 +1695,7 @@
       "atmospheric:rainforest_basin": "2025-06-09 04:01:32 +0000",
       "atmospheric:rainforest": "2025-06-09 03:33:07 +0000",
       "minecraft:savanna_plateau": "2025-06-11 00:28:37 +0000",
+      "minecraft:beach": "2025-06-15 03:50:22 +0000",
       "minecraft:sparse_jungle": "2025-06-09 03:47:43 +0000",
       "minecraft:lukewarm_ocean": "2025-06-09 04:25:39 +0000",
       "minecraft:river": "2025-06-09 03:47:41 +0000",
@@ -2044,6 +2045,12 @@
   "apotheosis:affix/gem_cut": {
     "criteria": {
       "cut": "2025-06-13 05:16:24 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:thunderbrand": {
+    "criteria": {
+      "requirement": "2025-06-15 03:56:57 +0000"
     },
     "done": true
   },
