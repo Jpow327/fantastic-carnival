@@ -3756,3 +3756,45 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [15Jun2025 22:39:37.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
 [15Jun2025 22:39:37.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
 [15Jun2025 22:39:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> pegueme a ver si si se desactivo el pvp
+[15Jun2025 22:40:34.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
+[15Jun2025 22:40:36.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
+[15Jun2025 22:40:40.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> so
+[15Jun2025 22:40:47.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> pegueme pa ver si si se desactivo el pvp
+[15Jun2025 22:41:10.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> esa vaina si me hace daño
+[15Jun2025 22:41:17.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> 400% mas de daño
+[15Jun2025 22:41:35.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ya estoy cheto jeff
+[15Jun2025 22:41:39.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> estoy preparado
+[15Jun2025 22:42:05.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> jeff
+[15Jun2025 22:42:12.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> vc
+[15Jun2025 22:42:54.790] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 22:42:54.790] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 22:42:54.790] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 22:42:54.790] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[15Jun2025 22:43:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> nopuedo
+[15Jun2025 22:43:31.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> jeff
+[15Jun2025 22:43:42.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> si ya tengo encantado mi item no hay manera de meterle otro enchant?
+[15Jun2025 22:43:50.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> en mesa de crafteo?
+[15Jun2025 22:43:54.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> digo
+[15Jun2025 22:43:56.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> de encantamiento
+[15Jun2025 22:44:06.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> en yunque
+[15Jun2025 22:44:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[15Jun2025 22:44:10.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> en yunque si
+[15Jun2025 22:44:17.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> pero hay que ver si los encantamientos son compatibles
+[15Jun2025 22:45:14.905] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[15Jun2025 22:45:25.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> uy que salvada
+[15Jun2025 22:46:04.623] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[15Jun2025 22:46:04.623] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[15Jun2025 22:47:06.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> oe juan
+[15Jun2025 22:47:15.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> cual es el aldeano de los libros de reparacion?
+[15Jun2025 22:47:33.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> venga
+[15Jun2025 22:47:50.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> el de abajo de ltodo
+[15Jun2025 22:47:59.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ty
+[15Jun2025 22:48:55.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> puedo usar su yunque?
+[15Jun2025 22:49:40.883] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 22:49:40.883] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[15Jun2025 22:49:50.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
+[15Jun2025 22:49:58.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> se
+[15Jun2025 22:49:59.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> puedo usar su yunque :v?
+[15Jun2025 22:49:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[15Jun2025 22:50:00.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> vale
+[15Jun2025 22:50:01.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> gracia

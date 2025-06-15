@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/mending_mixture": {
+    "criteria": {
+      "spellstone": "2025-06-15 22:37:52 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-06-05 20:00:02 +0000",
@@ -147,6 +153,12 @@
   "enigmaticlegacy:book/misc/hunter_guidebook": {
     "criteria": {
       "has_the_recipe": "2025-06-05 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/mending_mixture": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 22:37:52 +0000"
     },
     "done": true
   },
@@ -1154,6 +1166,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/mending_mixture": {
+    "criteria": {
+      "has_recipe_result": "2025-06-15 22:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:basalt_deltas": "2025-06-05 21:57:40 +0000"
@@ -1320,6 +1338,12 @@
   "majruszsdifficulty:pillager_treasure_bag": {
     "criteria": {
       "bag_opened": "2025-06-15 01:38:34 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-06-15 22:38:17 +0000"
     },
     "done": true
   },
