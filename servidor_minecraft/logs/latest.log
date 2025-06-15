@@ -4127,3 +4127,28 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [15Jun2025 23:28:20.936] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
 [15Jun2025 23:29:37.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> a mk va tocar farmear palos para las gemas
 [15Jun2025 23:29:49.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> palos?
+[15Jun2025 23:31:17.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> el aldeano da 1 gema por 32 palos
+[15Jun2025 23:32:02.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 23:32:02.233] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[15Jun2025 23:32:02.233] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 23:32:02.233] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 23:33:56.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> mk ese ruido
+[15Jun2025 23:33:59.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> todo endiablado
+[15Jun2025 23:34:00.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[15Jun2025 23:34:05.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> si lo escucha?
+[15Jun2025 23:34:07.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> sis
+[15Jun2025 23:34:08.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> sonidito todo roscón
+[15Jun2025 23:34:14.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> los meros gruñidos
+[15Jun2025 23:34:31.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> suena como mau cuando no le ponen vaselina
+[15Jun2025 23:37:19.635] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[15Jun2025 23:37:19.636] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 23:37:19.636] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[15Jun2025 23:37:23.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> oe mk
+[15Jun2025 23:37:32.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> como muy pocos mobs en esta dung no?
+[15Jun2025 23:37:44.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> pues pq darkness los mató a todos
+[15Jun2025 23:37:54.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[15Jun2025 23:38:56.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> o será que modificar los archivos puso el modo facil?
+[15Jun2025 23:39:01.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> nose mk
+[15Jun2025 23:39:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[15Jun2025 23:39:37.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> me siento como mas chetado de lo normal
+[15Jun2025 23:40:29.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has reached the goal [Hunted]
