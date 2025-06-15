@@ -3,6 +3,7 @@
 	type: "party"
 	owner: "eede419e-6249-3648-b9b1-3edb24231985"
 	ranks: {
+		26d6f53a-debb-3a45-9c21-8c8e07b8e2c6: "member"
 		355a9258-55ca-327a-9183-54003bc6f271: "officer"
 		eed46286-4ba1-3670-a9af-53b4f704c0db: "invited"
 		eede419e-6249-3648-b9b1-3edb24231985: "owner"
@@ -12,7 +13,7 @@
 	properties: {
 		"ftbteams:display_name": "ariopandilla"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF9359"
+		"ftbteams:color": "#5985FF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
@@ -40,6 +41,8 @@
 		{ from: "eede419e-6249-3648-b9b1-3edb24231985", date: 1750026199231L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"TanatosGX\"}]}" }
 		{ from: "eede419e-6249-3648-b9b1-3edb24231985", date: 1750026201478L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"ChristianR3aper\"}]}" }
 		{ from: "eede419e-6249-3648-b9b1-3edb24231985", date: 1750026203283L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Jaime_A1\"}]}" }
+		{ from: "eede419e-6249-3648-b9b1-3edb24231985", date: 1750026358352L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"art\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750026469387L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"art\"}]}" }
 	]
 	extra: { }
 }

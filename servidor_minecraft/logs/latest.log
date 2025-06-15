@@ -3721,3 +3721,38 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [15Jun2025 22:29:43.095] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [15Jun2025 22:29:43.095] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
 [15Jun2025 22:29:43.096] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 22:29:46.872] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/entity/Stoneling$StonelingVariant
+[15Jun2025 22:29:55.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Local Librarian]
+[15Jun2025 22:30:09.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> e
+[15Jun2025 22:30:14.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> JUAN
+[15Jun2025 22:30:16.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[15Jun2025 22:30:22.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> arriba a la izquierda
+[15Jun2025 22:30:23.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> mk pq tengo tantos logros de la nada
+[15Jun2025 22:30:29.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> hay un simbolo de basura
+[15Jun2025 22:30:31.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> reclame todo y veaa todo l oqye me dieron
+[15Jun2025 22:30:32.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ahi mete todo
+[15Jun2025 22:30:34.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> y lo bota
+[15Jun2025 22:30:38.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> asi no deja todo el mierdero cerca
+[15Jun2025 22:30:43.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> pere
+[15Jun2025 22:30:51.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Purple Amethyst Eater]
+[15Jun2025 22:31:19.517] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbchunks/data/ClaimResults
+[15Jun2025 22:31:52.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Need A Map?]
+[15Jun2025 22:32:55.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2241, y=110, z=829} BlockPos{x=2241, y=109, z=829}
+[15Jun2025 22:32:55.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2241, y=110, z=829} BlockPos{x=2241, y=109, z=829}
+[15Jun2025 22:32:55.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2241, y=110, z=829} BlockPos{x=2241, y=109, z=829}
+[15Jun2025 22:32:55.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2241, y=110, z=829} BlockPos{x=2241, y=109, z=829}
+[15Jun2025 22:32:55.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2241, y=110, z=829} BlockPos{x=2241, y=109, z=829}
+[15Jun2025 22:33:46.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Minotaur['Duke Quinn the Crying'/1954, l='ServerLevel[world]', x=2271.71, y=97.00, z=775.68] died: Duke Quinn the Crying was slain by zJ3ff
+[15Jun2025 22:34:40.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Local Librarian]
+[15Jun2025 22:34:40.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Hidden in the Depths]
+[15Jun2025 22:34:40.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Purple Amethyst Eater]
+[15Jun2025 22:34:48.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 22:34:48.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[15Jun2025 22:34:48.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 22:37:52.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has reached the goal [Extraterrestrial Substance]
+[15Jun2025 22:38:17.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Unbreaking X]
+[15Jun2025 22:39:22.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> oe juan
+[15Jun2025 22:39:36.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
+[15Jun2025 22:39:37.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
+[15Jun2025 22:39:37.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
+[15Jun2025 22:39:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> pegueme a ver si si se desactivo el pvp

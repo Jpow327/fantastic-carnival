@@ -2,9 +2,7 @@
 	id: "26d6f53a-debb-3a45-9c21-8c8e07b8e2c6"
 	type: "player"
 	player_name: "art"
-	ranks: {
-		26d6f53a-debb-3a45-9c21-8c8e07b8e2c6: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "art"
 		"ftbteams:description": ""

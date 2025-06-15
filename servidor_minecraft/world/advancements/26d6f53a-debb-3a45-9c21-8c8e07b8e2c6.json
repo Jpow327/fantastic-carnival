@@ -1485,6 +1485,12 @@
     },
     "done": true
   },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2025-06-15 22:30:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-06-09 03:33:28 +0000"
@@ -1781,6 +1787,12 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-06-06 04:23:29 +0000",
       "inv_changed-diamond": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-06-15 22:29:55 +0000"
     },
     "done": true
   },
