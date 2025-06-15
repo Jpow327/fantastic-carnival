@@ -4056,3 +4056,53 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [15Jun2025 03:23:02.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> como reparo la armor
 [15Jun2025 03:23:34.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> no hay7 tiempo
 [15Jun2025 03:24:20.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> nah
+[15Jun2025 03:24:22.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> no llegamos
+[15Jun2025 03:24:30.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> como reparo
+[15Jun2025 03:24:37.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> si terminamos eso, nos da estrella de nether
+[15Jun2025 03:24:46.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ven juan
+[15Jun2025 03:24:47.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> tenes reparacion en la aramdura
+[15Jun2025 03:24:57.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> no XD
+[15Jun2025 03:25:12.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> xD
+[15Jun2025 03:25:13.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ven
+[15Jun2025 03:25:21.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> el de abajo
+[15Jun2025 03:25:40.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> no me alcanza
+[15Jun2025 03:25:41.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[15Jun2025 03:25:43.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> v
+[15Jun2025 03:25:44.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> .v
+[15Jun2025 03:26:18.216] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 03:26:18.216] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[15Jun2025 03:26:18.216] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 03:27:04.018] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[15Jun2025 03:27:04.020] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[15Jun2025 03:27:04.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Scorpion
+[15Jun2025 03:27:41.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2137, y=108, z=869} BlockPos{x=2138, y=108, z=869}
+[15Jun2025 03:27:41.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2137, y=108, z=869} BlockPos{x=2138, y=108, z=869}
+[15Jun2025 03:27:41.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2136, y=108, z=870} BlockPos{x=2138, y=108, z=869}
+[15Jun2025 03:28:04.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [The Jeweler]
+[15Jun2025 03:28:58.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> tana
+[15Jun2025 03:29:15.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> tana
+[15Jun2025 03:29:33.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ?
+[15Jun2025 03:29:40.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> te puedo pegar una flecha
+[15Jun2025 03:29:43.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> no.
+[15Jun2025 03:29:47.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> solo 1
+[15Jun2025 03:29:49.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[15Jun2025 03:29:51.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> dale
+[15Jun2025 03:30:04.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> e
+[15Jun2025 03:30:06.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> si esta fuerte
+[15Jun2025 03:30:25.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> lleva piercing y mas daño de flecha
+[15Jun2025 03:32:21.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2161, y=104, z=1100} BlockPos{x=2161, y=104, z=1099}
+[15Jun2025 03:32:32.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> muy caro lo de reforge man
+[15Jun2025 03:32:36.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2167, y=102, z=1098} BlockPos{x=2169, y=101, z=1097}
+[15Jun2025 03:32:39.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> jeff
+[15Jun2025 03:32:44.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ola
+[15Jun2025 03:32:47.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> tiene un
+[15Jun2025 03:32:54.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> Blazing core que le sobre?
+[15Jun2025 03:33:03.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> eh
+[15Jun2025 03:33:05.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> no se
+[15Jun2025 03:33:10.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> sigo en la dung
+[15Jun2025 03:33:17.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> habian partes q uds no lootearon
+[15Jun2025 03:33:18.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> xd
+[15Jun2025 03:33:18.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> puedo revisar en su casa o no?
+[15Jun2025 03:33:46.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> hagale
+[15Jun2025 03:33:52.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Ace Trainer]
+[15Jun2025 03:34:13.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/987, l='ServerLevel[world]', x=2246.17, y=110.00, z=831.98] died: Honeyed Archer was slain by TanatosGX

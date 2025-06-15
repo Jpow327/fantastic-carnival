@@ -743,6 +743,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-09 03:55:19 +0000",
+      "minecraft:blaze": "2025-06-15 03:22:07 +0000",
       "minecraft:skeleton": "2025-06-10 03:24:19 +0000",
       "minecraft:spider": "2025-06-09 04:11:37 +0000",
       "minecraft:creeper": "2025-06-11 04:39:37 +0000",
@@ -765,6 +766,12 @@
       "log_spam_fixer": "2025-06-06 04:23:29 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2025-06-15 03:22:08 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {
@@ -1381,6 +1388,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-06-15 03:28:04 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2025-06-06 04:23:29 +0000"
@@ -1650,6 +1663,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-06-09 03:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-15 03:22:08 +0000"
     },
     "done": true
   },
