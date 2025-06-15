@@ -608,6 +608,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-15 04:49:29 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -2277,7 +2283,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-06-15 04:41:22 +0000"
+      "not_target": "2025-06-15 04:49:31 +0000"
     },
     "done": false
   },

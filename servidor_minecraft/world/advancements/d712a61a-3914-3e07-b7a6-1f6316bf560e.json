@@ -1545,6 +1545,12 @@
     },
     "done": true
   },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-06-15 04:48:55 +0000"
+    },
+    "done": true
+  },
   "vinery:birch_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
