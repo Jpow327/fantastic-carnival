@@ -4343,3 +4343,96 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [15Jun2025 02:03:59.795] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
 [15Jun2025 02:03:59.796] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [15Jun2025 02:03:59.797] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to zJ3ff
+[15Jun2025 02:04:57.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1195, y=33, z=4665} BlockPos{x=1195, y=34, z=4666}
+[15Jun2025 02:04:58.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Skeleton
+[15Jun2025 02:06:03.734] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 02:06:03.735] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:06:03.735] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[15Jun2025 02:06:03.735] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[15Jun2025 02:06:36.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff lost connection: Disconnected
+[15Jun2025 02:06:36.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff left the game
+[15Jun2025 02:06:39.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Zombie
+[15Jun2025 02:06:55.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[15Jun2025 02:06:55.393] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Jaime_A1'/69269, l='ServerLevel[world]', x=1189.37, y=33.00, z=4663.30] died: Jaime_A1 was slain by Jaime_A1
+[15Jun2025 02:07:19.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Jaime_A1'/61737, l='ServerLevel[world]', x=1190.35, y=32.00, z=4664.70] died: Jaime_A1 was slain by Jaime_A1
+[15Jun2025 02:09:12.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was shot by Skeleton
+[15Jun2025 02:09:17.039] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 02:09:17.039] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[15Jun2025 02:09:17.040] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:09:17.137] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[15Jun2025 02:09:17.137] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:09:17.137] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:09:41.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> amigo
+[15Jun2025 02:09:51.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> un esqueleto que one shotea vcon una felvcha
+[15Jun2025 02:09:53.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> xd
+[15Jun2025 02:09:56.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Jaime_A1'/60696, l='ServerLevel[world]', x=1188.30, y=40.00, z=4713.51] died: Jaime_A1 was struck by lightning
+[15Jun2025 02:10:31.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was struck by lightning
+[15Jun2025 02:10:34.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> e
+[15Jun2025 02:10:34.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan
+[15Jun2025 02:10:35.839] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 02:10:35.839] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:10:35.839] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 02:10:35.839] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:10:37.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> te voy a violar
+[15Jun2025 02:10:38.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> te metiste
+[15Jun2025 02:10:40.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[15Jun2025 02:11:09.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Engineering Marvel]
+[15Jun2025 02:13:25.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1168, y=26, z=4727} BlockPos{x=1167, y=26, z=4730}
+[15Jun2025 02:13:26.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> jeff
+[15Jun2025 02:13:31.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> jeff no ta
+[15Jun2025 02:13:36.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> si hay un boss protegiendo un vcofre el vcofre debe tar op
+[15Jun2025 02:13:47.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> :v
+[15Jun2025 02:14:15.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Skeleton
+[15Jun2025 02:14:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> XD
+[15Jun2025 02:14:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Skeleton
+[15Jun2025 02:16:14.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pelgrim the Sharpshooter'/38447, l='ServerLevel[world]', x=1167.30, y=12.00, z=4692.70] died: Pelgrim the Sharpshooter was slain by Wither Skeleton
+[15Jun2025 02:18:26.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art withered away whilst fighting Zombie
+[15Jun2025 02:18:31.738] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 02:18:31.738] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[15Jun2025 02:18:31.739] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:18:43.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was shot by Stray
+[15Jun2025 02:18:47.095] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 02:18:47.095] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:18:47.095] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 02:18:47.294] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 02:18:47.294] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[15Jun2025 02:18:47.294] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 02:18:47.294] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:18:47.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> BRO
+[15Jun2025 02:18:51.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> Dios
+[15Jun2025 02:18:52.189] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 02:18:52.189] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:18:52.189] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[15Jun2025 02:18:52.441] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:18:52.442] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[15Jun2025 02:18:52.442] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:18:58.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ?
+[15Jun2025 02:19:05.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> 20 mobs vcampeando en mi vcuerpo
+[15Jun2025 02:19:27.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Wither Skeleton
+[15Jun2025 02:19:34.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ay wey
+[15Jun2025 02:19:41.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> XD
+[15Jun2025 02:19:50.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was blown up by Crawler
+[15Jun2025 02:20:31.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was shot by Skeleton
+[15Jun2025 02:21:55.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was shot by Skeleton
+[15Jun2025 02:23:38.235] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[15Jun2025 02:23:38.235] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 02:23:38.235] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 02:23:38.235] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 02:24:03.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Cursed Armor
+[15Jun2025 02:24:10.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Cursed Armor
+[15Jun2025 02:24:12.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> tana
+[15Jun2025 02:24:17.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> el ultimo piso hay muvcho mob
+[15Jun2025 02:24:20.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> bruh
+[15Jun2025 02:26:30.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> los curse armor aparecen cuando es una mierda elcofre
+[15Jun2025 02:26:36.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XDD
+[15Jun2025 02:26:46.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> vcomo se llama esa espada tana
+[15Jun2025 02:27:13.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> Brimstorm claymore
+[15Jun2025 02:27:22.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> te dejaste tu movchila
+[15Jun2025 02:27:23.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[15Jun2025 02:27:40.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> a
+[15Jun2025 02:29:06.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Rumak the Dark'/38523, l='ServerLevel[world]', x=1192.70, y=10.00, z=4749.70] died: Rumak the Dark was slain by TanatosGX
+[15Jun2025 02:29:11.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> no es por la espada juan
+[15Jun2025 02:29:19.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> bueno, algo tambien
+[15Jun2025 02:29:33.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> pero es por origen, bendicion y clase que es lo mas importante
+[15Jun2025 02:29:40.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> para hacer el daño que hago XD
+[15Jun2025 02:31:20.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> a

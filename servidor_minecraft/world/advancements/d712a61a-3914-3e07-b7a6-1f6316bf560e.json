@@ -1248,6 +1248,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-06-15 02:03:45 +0000"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -2335,6 +2341,12 @@
     "criteria": {
       "requirement": "2025-06-06 03:40:44 +0000",
       "log_spam_fixer": "2025-06-06 03:10:43 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-06-15 02:06:55 +0000"
     },
     "done": true
   },
