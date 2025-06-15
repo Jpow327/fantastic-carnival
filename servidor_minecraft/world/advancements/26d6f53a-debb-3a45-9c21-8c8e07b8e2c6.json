@@ -272,6 +272,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-06-15 23:45:35 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/materials/pure_heart": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -418,6 +424,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-15 23:46:10 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-13 02:31:10 +0000",
@@ -496,6 +508,12 @@
   "enigmaticaddons:book/tools/the_bless": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:booster_dropped": {
+    "criteria": {
+      "picked_up_booster": "2025-06-15 23:50:42 +0000"
     },
     "done": true
   },
@@ -1730,6 +1748,7 @@
       "minecraft:dripstone_caves": "2025-06-10 03:26:44 +0000",
       "minecraft:forest": "2025-06-11 00:16:15 +0000",
       "minecraft:lush_caves": "2025-06-09 03:41:13 +0000",
+      "minecraft:deep_dark": "2025-06-15 23:45:35 +0000",
       "minecraft:meadow": "2025-06-13 03:04:54 +0000",
       "minecraft:savanna": "2025-06-09 04:17:52 +0000",
       "minecraft:plains": "2025-06-09 03:48:09 +0000"
@@ -1939,6 +1958,12 @@
   "vinery:cherry_wood": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-15 23:49:23 +0000"
     },
     "done": true
   },

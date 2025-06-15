@@ -4152,3 +4152,114 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [15Jun2025 23:39:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
 [15Jun2025 23:39:37.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> me siento como mas chetado de lo normal
 [15Jun2025 23:40:29.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has reached the goal [Hunted]
+[15Jun2025 23:41:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> matemos al puto wither
+[15Jun2025 23:41:54.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> hagale
+[15Jun2025 23:41:58.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> oe juan
+[15Jun2025 23:42:44.603] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:43:21.588] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 23:43:21.588] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 23:43:21.588] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 23:43:21.588] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 23:43:57.823] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[15Jun2025 23:44:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> vamos al 0-0-0-0
+[15Jun2025 23:44:08.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> pa q salga el wither mas debil posible
+[15Jun2025 23:44:09.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> espere
+[15Jun2025 23:44:25.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> oe la amatista sirve pa algo?
+[15Jun2025 23:44:30.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> me puse a bajar por una cueva
+[15Jun2025 23:44:30.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> si
+[15Jun2025 23:44:32.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> crafteos
+[15Jun2025 23:44:36.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> encontre una cueva llena
+[15Jun2025 23:44:42.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> de solo amatista
+[15Jun2025 23:44:49.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> guarde las cords
+[15Jun2025 23:44:51.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> luego vamos
+[15Jun2025 23:44:55.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> pere
+[15Jun2025 23:44:56.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> o ponga un waypoint
+[15Jun2025 23:44:59.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> espere voy y se lo llevo
+[15Jun2025 23:45:22.648] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[15Jun2025 23:45:29.600] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[15Jun2025 23:45:30.586] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[15Jun2025 23:45:30.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:45:31.630] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 23:45:31.630] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[15Jun2025 23:45:31.631] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 23:45:31.631] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 23:45:31.631] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 23:45:32.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> listo
+[15Jun2025 23:45:38.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> MK
+[15Jun2025 23:45:41.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> EL WARDEN
+[15Jun2025 23:45:42.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> qiuvo
+[15Jun2025 23:45:43.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> VENGA
+[15Jun2025 23:45:45.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> JAJA
+[15Jun2025 23:45:46.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> QUE
+[15Jun2025 23:45:50.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> hagase tp
+[15Jun2025 23:45:57.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> es aca no?
+[15Jun2025 23:46:04.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> uy gonorrea
+[15Jun2025 23:46:08.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Sneak 100]
+[15Jun2025 23:46:10.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Sneak 100]
+[15Jun2025 23:46:28.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> se le mide?
+[15Jun2025 23:46:36.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> uy parce
+[15Jun2025 23:46:52.991] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[15Jun2025 23:46:58.817] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:47:00.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> APARECIO
+[15Jun2025 23:47:00.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> uy gonorrea
+[15Jun2025 23:47:01.183] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 23:47:01.183] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 23:47:01.183] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 23:47:02.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[15Jun2025 23:47:03.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> jajaja
+[15Jun2025 23:47:43.531] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[15Jun2025 23:47:43.533] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[15Jun2025 23:47:43.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Warden
+[15Jun2025 23:47:44.918] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:47:46.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 23:47:46.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 23:47:46.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 23:47:46.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 23:47:46.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 23:47:49.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Warden
+[15Jun2025 23:47:51.295] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:47:53.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[15Jun2025 23:48:02.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Warden
+[15Jun2025 23:48:03.175] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:48:25.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Warden
+[15Jun2025 23:48:26.908] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:48:42.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Warden
+[15Jun2025 23:48:44.238] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:48:45.471] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[15Jun2025 23:48:45.471] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[15Jun2025 23:48:50.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Warden
+[15Jun2025 23:48:52.175] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:48:53.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[15Jun2025 23:48:53.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[15Jun2025 23:48:53.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 23:48:53.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[15Jun2025 23:48:53.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 23:49:02.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Warden
+[15Jun2025 23:49:03.560] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:49:04.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Warden
+[15Jun2025 23:49:06.210] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:49:07.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[15Jun2025 23:49:07.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 23:49:07.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 23:49:07.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 23:49:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Warden
+[15Jun2025 23:49:17.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Warden
+[15Jun2025 23:49:17.371] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:49:18.714] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:49:23.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has completed the challenge [Phantom Thief]
+[15Jun2025 23:49:23.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has completed the challenge [It Spreads]
+[15Jun2025 23:49:26.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [It Is Time For an Upgrade, Isn't It?]
+[15Jun2025 23:49:39.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> que dio
+[15Jun2025 23:49:53.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> vamonos
+[15Jun2025 23:49:56.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> antes de que salga otro
+[15Jun2025 23:50:03.845] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:50:06.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 23:50:06.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 23:50:06.034] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 23:50:06.034] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 23:50:16.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tenga juan
+[15Jun2025 23:50:16.824] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[15Jun2025 23:50:19.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> e
+[15Jun2025 23:50:23.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> estoy en la casa
+[15Jun2025 23:50:42.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [It Is Time For an Upgrade, Isn't It?]
+[15Jun2025 23:50:50.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Master of Silence]
