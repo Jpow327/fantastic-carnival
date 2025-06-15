@@ -751,6 +751,7 @@
       "minecraft:husk": "2025-06-09 04:13:35 +0000",
       "minecraft:cave_spider": "2025-06-15 01:50:41 +0000",
       "minecraft:stray": "2025-06-13 02:47:01 +0000",
+      "minecraft:enderman": "2025-06-15 04:32:49 +0000",
       "minecraft:zombie": "2025-06-09 03:54:26 +0000"
     },
     "done": false
@@ -1427,6 +1428,12 @@
   "undead_unleashed:boo": {
     "criteria": {
       "boo": "2025-06-09 03:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-15 04:31:08 +0000"
     },
     "done": true
   },

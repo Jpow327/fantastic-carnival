@@ -48,6 +48,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/etherium_ore": {
+    "criteria": {
+      "generic_revelation": "2025-06-15 04:26:44 +0000"
+    },
+    "done": true
+  },
   "vinery:loam": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -392,6 +398,12 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2025-06-15 04:35:16 +0000"
     },
     "done": true
   },
@@ -1143,6 +1155,12 @@
     },
     "done": true
   },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2025-06-15 04:37:27 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1764,6 +1782,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-15 04:43:45 +0000"
+    },
+    "done": true
+  },
   "cisco_mod:ancient_craftmanship": {
     "criteria": {
       "ancient_craftmanship": "2025-06-11 05:09:38 +0000"
@@ -2253,21 +2277,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-06-15 04:20:04 +0000",
-      "!bit14": "2025-06-15 04:20:04 +0000",
-      "!bit11": "2025-06-15 04:20:04 +0000",
-      "!bit12": "2025-06-15 04:20:04 +0000",
-      "!bit10": "2025-06-15 04:20:04 +0000",
-      "!bit9": "2025-06-15 04:20:04 +0000",
-      "!bit8": "2025-06-15 04:20:04 +0000",
-      "!bit7": "2025-06-15 04:20:04 +0000",
-      "!bit6": "2025-06-15 04:20:04 +0000",
-      "!bit5": "2025-06-15 04:20:04 +0000",
-      "!bit4": "2025-06-15 04:20:04 +0000",
-      "!bit3": "2025-06-15 04:20:04 +0000",
-      "!bit2": "2025-06-15 04:20:04 +0000",
-      "!bit1": "2025-06-15 04:20:04 +0000",
-      "!bit0": "2025-06-15 04:20:04 +0000"
+      "not_target": "2025-06-15 04:41:22 +0000"
     },
     "done": false
   },
