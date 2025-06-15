@@ -4289,3 +4289,131 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [15Jun2025 04:03:01.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/33810, l='ServerLevel[world]', x=1713.50, y=73.00, z=2578.50]
 [15Jun2025 04:03:21.148] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/33885, l='ServerLevel[world]', x=1732.50, y=79.00, z=2607.50]
 [15Jun2025 04:05:18.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Blast Protection Not Included]
+[15Jun2025 04:05:21.149] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/34386, l='ServerLevel[world]', x=1720.50, y=77.00, z=2599.50]
+[15Jun2025 04:05:26.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> creo q me salio tu arma tana
+[15Jun2025 04:05:32.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> cual
+[15Jun2025 04:05:34.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> a
+[15Jun2025 04:05:36.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> xd
+[15Jun2025 04:06:19.999] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/34544, l='ServerLevel[world]', x=1780.50, y=75.00, z=2604.50]
+[15Jun2025 04:07:13.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan
+[15Jun2025 04:07:22.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> q
+[15Jun2025 04:07:24.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tana
+[15Jun2025 04:07:25.548] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/35183, l='ServerLevel[world]', x=1752.50, y=77.00, z=2595.50]
+[15Jun2025 04:07:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> e sirve esto?
+[15Jun2025 04:07:32.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> tienes la magia takeoff?
+[15Jun2025 04:07:39.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> NI IDE xd
+[15Jun2025 04:07:42.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ni idea
+[15Jun2025 04:07:42.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> leelo
+[15Jun2025 04:07:44.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> da exp
+[15Jun2025 04:07:44.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> nao
+[15Jun2025 04:07:58.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> A
+[15Jun2025 04:08:03.670] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 04:08:03.670] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 04:08:03.670] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 04:08:13.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> when
+[15Jun2025 04:08:18.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> yo no agarraba eso XD
+[15Jun2025 04:08:22.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Zombie
+[15Jun2025 04:08:24.922] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[15Jun2025 04:08:33.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Zombie
+[15Jun2025 04:08:36.578] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[15Jun2025 04:08:39.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Zombie
+[15Jun2025 04:08:44.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/35630, l='ServerLevel[world]', x=1710.50, y=72.00, z=2563.50]
+[15Jun2025 04:08:45.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Zombie
+[15Jun2025 04:09:10.960] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Jaime_A1'/35558, l='ServerLevel[world]', x=1773.27, y=4.00, z=2608.05] died: Jaime_A1 tried to swim in lava
+[15Jun2025 04:09:53.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Cursed Armor
+[15Jun2025 04:09:58.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> perdona tana
+[15Jun2025 04:10:11.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> nohayproblema
+[15Jun2025 04:10:27.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
+[15Jun2025 04:10:28.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> zunga
+[15Jun2025 04:10:32.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> no pegue vainas de veneno aoe
+[15Jun2025 04:10:43.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> casi me manda con los caleños
+[15Jun2025 04:10:54.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> XD
+[15Jun2025 04:11:51.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Jaime_A1'/35499, l='ServerLevel[world]', x=1764.99, y=4.00, z=2609.45] died: Jaime_A1 tried to swim in lava
+[15Jun2025 04:12:02.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Jaime_A1'/35633, l='ServerLevel[world]', x=1764.36, y=4.00, z=2608.15] died: Jaime_A1 tried to swim in lava
+[15Jun2025 04:12:03.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tana
+[15Jun2025 04:12:06.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> falta mas en este piso?
+[15Jun2025 04:12:17.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> donde estoy no explore
+[15Jun2025 04:12:18.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Jaime_A1'/35319, l='ServerLevel[world]', x=1765.06, y=4.00, z=2607.30] died: Jaime_A1 tried to swim in lava
+[15Jun2025 04:13:13.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Zombie
+[15Jun2025 04:13:13.540] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[15Jun2025 04:13:13.541] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[15Jun2025 04:13:13.541] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[15Jun2025 04:13:13.541] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[15Jun2025 04:13:13.541] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[15Jun2025 04:13:17.317] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 04:13:17.317] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[15Jun2025 04:13:17.317] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[15Jun2025 04:13:17.318] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[15Jun2025 04:13:41.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tama
+[15Jun2025 04:13:44.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ?
+[15Jun2025 04:13:45.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> yo creo que si nos podemos bajar al wither
+[15Jun2025 04:14:09.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> terminamos este y intentamos matar al wihter?
+[15Jun2025 04:14:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> dale
+[15Jun2025 04:14:38.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> man se me va romper el casco
+[15Jun2025 04:14:39.113] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 04:14:39.113] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 04:14:39.113] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[15Jun2025 04:14:39.114] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 04:14:46.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> y las botas
+[15Jun2025 04:14:48.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> de darksteel??
+[15Jun2025 04:14:51.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> se
+[15Jun2025 04:14:54.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> eso es barato
+[15Jun2025 04:14:56.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> no se estrese
+[15Jun2025 04:14:57.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Zombie
+[15Jun2025 04:14:59.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan
+[15Jun2025 04:15:12.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> pero los tengo con prote 3
+[15Jun2025 04:15:13.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Jaime_A1'/37158, l='ServerLevel[world]', x=1773.91, y=4.00, z=2609.56] died: Jaime_A1 was slain by Jaime_A1
+[15Jun2025 04:15:14.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> con el aldeano te da libro de encantamiento de reparacion
+[15Jun2025 04:15:17.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tana
+[15Jun2025 04:15:18.019] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Jaime_A1'/38093, l='ServerLevel[world]', x=1770.75, y=4.00, z=2611.10] died: Jaime_A1 was slain by Jaime_A1
+[15Jun2025 04:15:19.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> aqui es la bajada
+[15Jun2025 04:15:54.615] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 04:15:54.615] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 04:15:54.615] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[15Jun2025 04:15:54.615] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 04:17:47.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan
+[15Jun2025 04:18:03.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> tengo un anillo para tu magia
+[15Jun2025 04:18:06.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> muy op creo
+[15Jun2025 04:19:03.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ten
+[15Jun2025 04:20:36.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1690, y=-6, z=2635} BlockPos{x=1688, y=-7, z=2635}
+[15Jun2025 04:20:41.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan
+[15Jun2025 04:20:46.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> so
+[15Jun2025 04:20:49.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> esto tambien te da exp
+[15Jun2025 04:20:56.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ven
+[15Jun2025 04:20:56.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> oa
+[15Jun2025 04:20:58.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> los tomos
+[15Jun2025 04:21:02.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> rotenselo entre ustedes
+[15Jun2025 04:21:08.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> todos los pueden leer y recibir exp
+[15Jun2025 04:21:08.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> me diste los anillos?
+[15Jun2025 04:21:10.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> los corrupted tomo
+[15Jun2025 04:21:16.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan, si te di el anilo
+[15Jun2025 04:21:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> eso te da exp
+[15Jun2025 04:21:20.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> leelo
+[15Jun2025 04:21:31.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> pero tana
+[15Jun2025 04:21:33.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan no sabe leer
+[15Jun2025 04:21:36.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> :v
+[15Jun2025 04:21:56.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tana pa donde mas nos falta revisaR?
+[15Jun2025 04:21:56.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: art moved wrongly!
+[15Jun2025 04:21:56.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: art moved wrongly!
+[15Jun2025 04:21:58.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> pq se vuelve invisible
+[15Jun2025 04:22:05.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> la raza ender
+[15Jun2025 04:22:11.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> se hace invisible shifteando
+[15Jun2025 04:22:12.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ceo
+[15Jun2025 04:22:14.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> creo
+[15Jun2025 04:22:16.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> aca
+[15Jun2025 04:22:57.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [He Was Number One!]
+[15Jun2025 04:22:57.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has completed the challenge [Titan-Forged]
+[15Jun2025 04:24:16.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Cursed Armor
+[15Jun2025 04:24:16.519] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[15Jun2025 04:24:16.519] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[15Jun2025 04:24:16.519] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[15Jun2025 04:24:16.519] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[15Jun2025 04:24:16.519] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[15Jun2025 04:24:18.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> XD
+[15Jun2025 04:24:19.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> diablo
+[15Jun2025 04:24:23.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Cursed Armor
+[15Jun2025 04:24:26.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> XD
+[15Jun2025 04:25:01.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Cursed Armor
+[15Jun2025 04:25:08.967] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[15Jun2025 04:25:08.967] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[15Jun2025 04:25:08.967] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond

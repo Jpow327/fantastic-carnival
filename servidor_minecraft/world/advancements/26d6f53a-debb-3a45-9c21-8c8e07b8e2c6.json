@@ -1637,6 +1637,7 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:rainbow_beach": "2025-06-15 04:19:58 +0000",
       "byg:redwood_thicket": "2025-06-10 03:25:40 +0000",
       "byg:fragment_forest": "2025-06-09 03:30:56 +0000",
       "byg:firecracker_shrubland": "2025-06-11 04:27:03 +0000",
