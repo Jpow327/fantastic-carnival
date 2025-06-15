@@ -716,6 +716,12 @@
     },
     "done": true
   },
+  "simplyswords:dormant_relic": {
+    "criteria": {
+      "requirement": "2025-06-15 01:37:54 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_rack_5": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -742,6 +748,7 @@
       "minecraft:creeper": "2025-06-11 04:39:37 +0000",
       "minecraft:zombified_piglin": "2025-06-15 01:28:21 +0000",
       "minecraft:husk": "2025-06-09 04:13:35 +0000",
+      "minecraft:cave_spider": "2025-06-15 01:50:41 +0000",
       "minecraft:stray": "2025-06-13 02:47:01 +0000",
       "minecraft:zombie": "2025-06-09 03:54:26 +0000"
     },
@@ -1485,6 +1492,12 @@
   "enigmaticaddons:book/relics/antique_bag": {
     "criteria": {
       "has_items": "2025-06-11 05:09:02 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-06-15 01:43:18 +0000"
     },
     "done": true
   },

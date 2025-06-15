@@ -802,6 +802,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-06-15 01:40:51 +0000"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1057,6 +1063,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "diamond_knife": "2025-06-11 03:18:56 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:sleeping_sword": {
+    "criteria": {
+      "sleeping_sword": "2025-06-15 01:59:59 +0000"
     },
     "done": true
   },
@@ -2186,7 +2198,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-06-15 01:36:32 +0000"
+      "direct": "2025-06-15 01:58:37 +0000"
     },
     "done": false
   },
@@ -2323,6 +2335,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-06-07 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-06-15 01:43:54 +0000"
     },
     "done": true
   },
