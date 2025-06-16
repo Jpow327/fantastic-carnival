@@ -490,6 +490,7 @@
       "minecraft:evoker": "2025-06-15 02:29:06 +0000",
       "quark:forgotten": "2025-06-07 23:53:40 +0000",
       "minecraft:phantom": "2025-06-13 02:59:11 +0000",
+      "minecraft:zombified_piglin": "2025-06-16 03:21:10 +0000",
       "minecraft:wither_skeleton": "2025-06-09 04:12:08 +0000",
       "minecraft:husk": "2025-06-11 03:37:31 +0000",
       "minecraft:cave_spider": "2025-06-06 04:04:40 +0000",
@@ -2428,7 +2429,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-16 03:05:23 +0000"
+      "target": "2025-06-16 03:21:19 +0000"
     },
     "done": false
   },

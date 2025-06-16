@@ -503,6 +503,7 @@
       "minecraft:magma_cube": "2025-06-05 22:02:24 +0000",
       "minecraft:spider": "2025-06-05 20:44:56 +0000",
       "minecraft:creeper": "2025-06-05 21:04:48 +0000",
+      "minecraft:zombified_piglin": "2025-06-16 03:22:37 +0000",
       "minecraft:wither_skeleton": "2025-06-05 21:29:38 +0000",
       "minecraft:husk": "2025-06-11 05:11:35 +0000",
       "minecraft:cave_spider": "2025-06-06 04:07:09 +0000",
@@ -1639,6 +1640,7 @@
       "cooked_beef": "2025-06-05 21:37:15 +0000",
       "cooked_chicken": "2025-06-15 03:59:46 +0000",
       "bread": "2025-06-05 20:18:06 +0000",
+      "golden_apple": "2025-06-16 03:15:05 +0000",
       "melon_slice": "2025-06-05 21:33:56 +0000",
       "golden_carrot": "2025-06-11 06:37:14 +0000",
       "carrot": "2025-06-05 16:45:09 +0000"
@@ -1741,6 +1743,12 @@
       "warden": "2025-06-15 23:49:23 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2025-06-16 03:21:27 +0000"
+    },
+    "done": true
   },
   "vinery:loam_stairs": {
     "criteria": {
@@ -2481,7 +2489,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-06-16 03:01:43 +0000"
+      "target": "2025-06-16 03:23:34 +0000"
     },
     "done": false
   },
