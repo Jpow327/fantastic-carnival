@@ -651,6 +651,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-06-16 00:12:06 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -696,6 +702,12 @@
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2025-06-05 21:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-06-16 00:22:27 +0000"
     },
     "done": true
   },
@@ -1490,6 +1502,12 @@
     "criteria": {
       "has_recipe": "2025-06-05 16:36:53 +0000",
       "has_cobweb": "2025-06-05 16:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-06-16 00:22:27 +0000"
     },
     "done": true
   },
@@ -2415,7 +2433,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-16 00:08:19 +0000"
+      "target": "2025-06-16 00:11:23 +0000"
     },
     "done": false
   },

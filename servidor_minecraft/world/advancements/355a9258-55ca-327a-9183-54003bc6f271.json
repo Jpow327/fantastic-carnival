@@ -675,9 +675,21 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-06-16 00:25:43 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2025-06-16 00:11:48 +0000"
     },
     "done": true
   },
@@ -1024,6 +1036,12 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-06-16 00:11:40 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1222,6 +1240,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/heaven_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 00:11:48 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1415,6 +1439,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-06-16 00:25:43 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-06-06 03:10:24 +0000",
@@ -1424,9 +1454,10 @@
   },
   "enigmaticlegacy:recipes/generic/heaven_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-06-11 03:30:02 +0000"
+      "has_parent_recipe": "2025-06-11 03:30:02 +0000",
+      "has_items": "2025-06-16 00:11:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_pink_from_white": {
     "criteria": {
@@ -1710,9 +1741,10 @@
   },
   "enigmaticlegacy:recipes/generic/fabulous_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-06-16 00:11:48 +0000",
       "has_items": "2025-06-08 00:20:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_lime_from_white": {
     "criteria": {
@@ -2290,7 +2322,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-16 00:08:19 +0000"
+      "target": "2025-06-16 00:19:56 +0000"
     },
     "done": false
   },

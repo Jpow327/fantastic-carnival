@@ -254,6 +254,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_items": "2025-06-16 00:11:32 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -1119,6 +1125,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-06-16 00:12:17 +0000"
+    },
+    "done": true
+  },
   "cisco_mod:dark_steel_ad": {
     "criteria": {
       "dark_steel_ad": "2025-06-13 02:16:35 +0000"
@@ -1236,6 +1248,12 @@
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2025-06-16 00:11:32 +0000"
     },
     "done": true
   },
@@ -1420,6 +1438,12 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-06-16 00:19:59 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/magnet_ring": {
     "criteria": {
       "spellstone": "2025-06-10 03:34:29 +0000"
@@ -1435,6 +1459,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-06-16 00:19:59 +0000"
     },
     "done": true
   },
@@ -1738,6 +1768,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-06-15 03:22:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-06-16 00:24:50 +0000"
     },
     "done": true
   },
