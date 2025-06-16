@@ -1624,3 +1624,136 @@
 [16Jun2025 02:43:58.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> pa guardar cosas
 [16Jun2025 02:43:59.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> para mas espacio
 [16Jun2025 02:44:00.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> ten juan
+[16Jun2025 02:44:24.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> tube busacando el /home xD
+[16Jun2025 02:44:48.590] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[16Jun2025 02:44:48.606] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[16Jun2025 02:44:48.654] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[16Jun2025 02:44:48.705] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[16Jun2025 02:44:48.754] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[16Jun2025 02:44:48.805] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[16Jun2025 02:44:48.853] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[16Jun2025 02:44:48.906] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[16Jun2025 02:44:48.956] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[16Jun2025 02:44:49.008] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[16Jun2025 02:44:49.057] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[16Jun2025 02:44:49.105] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[16Jun2025 02:44:50.588] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[16Jun2025 02:44:50.592] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[16Jun2025 02:44:50.603] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[16Jun2025 02:44:50.683] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3966d8e1
+[16Jun2025 02:44:50.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zJ3ff[/10.147.17.225:50798] logged in with entity id 115394 at (2218.0393318813485, 106.0, 864.0992390634503)
+[16Jun2025 02:44:50.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zJ3ff
+[16Jun2025 02:44:50.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zJ3ff
+[16Jun2025 02:44:50.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zJ3ff
+[16Jun2025 02:44:50.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zJ3ff
+[16Jun2025 02:44:50.716] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zJ3ff
+[16Jun2025 02:44:50.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zJ3ff
+[16Jun2025 02:44:50.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zJ3ff
+[16Jun2025 02:44:50.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff joined the game
+[16Jun2025 02:44:50.769] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[16Jun2025 02:44:50.814] [Server thread/INFO] [Jade/]: Syncing config to zJ3ff (eede419e-6249-3648-b9b1-3edb24231985)
+[16Jun2025 02:44:50.855] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to zJ3ff...
+[16Jun2025 02:44:50.855] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[16Jun2025 02:44:50.855] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Jun2025 02:44:50.856] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to zJ3ff
+[16Jun2025 02:45:10.745] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[16Jun2025 02:45:10.745] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[16Jun2025 02:45:10.745] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[16Jun2025 02:45:18.836] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[16Jun2025 02:45:18.836] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[16Jun2025 02:45:18.836] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[16Jun2025 02:45:21.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ola
+[16Jun2025 02:45:25.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> oe zunga
+[16Jun2025 02:45:27.460] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[16Jun2025 02:45:29.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ola
+[16Jun2025 02:45:30.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> que cuadre hora del partido con el de la juve
+[16Jun2025 02:45:48.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> chupelo
+[16Jun2025 02:45:55.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> chupelo usted zunga
+[16Jun2025 02:45:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> empiece a mover el culo
+[16Jun2025 02:46:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> inutil de mierda
+[16Jun2025 02:46:01.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> :v
+[16Jun2025 02:46:02.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[16Jun2025 02:46:14.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> eu, muy complicado el nether?
+[16Jun2025 02:46:20.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> oe jaime
+[16Jun2025 02:46:23.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> nah
+[16Jun2025 02:46:26.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> mande
+[16Jun2025 02:46:26.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ta facil jeff
+[16Jun2025 02:46:30.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> y hay buen loot
+[16Jun2025 02:46:31.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> si quiere le doy /fly para construir facil el puente
+[16Jun2025 02:46:37.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan
+[16Jun2025 02:46:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> tiene blazing core?
+[16Jun2025 02:47:04.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tana
+[16Jun2025 02:47:05.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tenga
+[16Jun2025 02:47:05.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> no tengo materiales XD
+[16Jun2025 02:47:17.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> porfin
+[16Jun2025 02:47:21.586] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[16Jun2025 02:47:21.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[16Jun2025 02:47:21.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[16Jun2025 02:47:21.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[16Jun2025 02:47:23.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> es medio mid
+[16Jun2025 02:47:27.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> prefiero el de darkness tbh
+[16Jun2025 02:47:52.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan, mire discord
+[16Jun2025 02:47:57.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> con razon el oneshot
+[16Jun2025 02:48:08.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> jeff
+[16Jun2025 02:48:12.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> deme creativo por 1 segundo
+[16Jun2025 02:48:15.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> pa quitarme esa monda
+[16Jun2025 02:48:27.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> no la puedo quitar
+[16Jun2025 02:48:31.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> mire el dsicord
+[16Jun2025 02:48:33.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> e
+[16Jun2025 02:48:34.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> como es
+[16Jun2025 02:48:38.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set TanatosGX's game mode to Creative Mode]
+[16Jun2025 02:48:39.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ahi?'
+[16Jun2025 02:48:42.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> si
+[16Jun2025 02:48:48.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XDDDDDDDDD
+[16Jun2025 02:48:49.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> listo
+[16Jun2025 02:48:51.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> que asco
+[16Jun2025 02:48:55.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> JSADKAJSFJKj
+[16Jun2025 02:48:57.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set TanatosGX's game mode to Survival Mode]
+[16Jun2025 02:49:07.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> cursed ring truco
+[16Jun2025 02:49:18.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tana hay alguna dung que ya hayan limpiado en el nether?
+[16Jun2025 02:49:23.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> pa lootear
+[16Jun2025 02:49:25.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ay
+[16Jun2025 02:49:31.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan fue
+[16Jun2025 02:49:47.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> yo si fui, pero me oneshoteaban
+[16Jun2025 02:49:54.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> por culpa de ese cursed
+[16Jun2025 02:49:59.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> XD
+[16Jun2025 02:50:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> SI DEPRONTO ALGUIEN DE AQUI TUVO UN MAL DIA
+[16Jun2025 02:50:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> DEJE QUE YO LES CUENTE LA HISTORIA MIA
+[16Jun2025 02:50:29.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Eyes Open]
+[16Jun2025 02:50:31.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> QUE SEGURAMENTE DESPUES QUE LE CUENTE YA NO SE VA ESTAR QUEJANDO
+[16Jun2025 02:50:38.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> HOY VI AL AMOR DE MI VIDAAAAAA
+[16Jun2025 02:50:46.323] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[16Jun2025 02:51:18.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
+[16Jun2025 02:51:20.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> me guia en el nether?
+[16Jun2025 02:51:45.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> le puse 40% crit chance a mi arma
+[16Jun2025 02:51:46.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[16Jun2025 02:51:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> zunga
+[16Jun2025 02:51:53.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> pere le pongo bending y vamos jeff
+[16Jun2025 02:52:10.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> mirenme soy kirito y me van a violar a mi novia
+[16Jun2025 02:52:17.181] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[16Jun2025 02:52:17.182] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[16Jun2025 02:52:26.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> fuego
+[16Jun2025 02:52:26.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> :v
+[16Jun2025 02:52:30.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> entonces
+[16Jun2025 02:52:31.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
+[16Jun2025 02:52:32.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> zunga
+[16Jun2025 02:52:35.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> si me guia?
+[16Jun2025 02:52:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> vamo
+[16Jun2025 02:53:05.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> alla se consiguen los materiales raros jeff
+[16Jun2025 02:53:10.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> como cuales?
+[16Jun2025 02:53:11.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> para juntar las gemas
+[16Jun2025 02:53:16.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> a
+[16Jun2025 02:53:16.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> arcane sands
+[16Jun2025 02:53:21.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ud no tiene arcane sand?
+[16Jun2025 02:53:29.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> y luminous cristal
+[16Jun2025 02:53:36.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> bueno
+[16Jun2025 02:53:41.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> vamos??
+[16Jun2025 02:53:44.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> lo quieres juan
+[16Jun2025 02:53:45.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> vamo pues
+[16Jun2025 02:53:46.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> xd
+[16Jun2025 02:53:55.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ya tengo
+[16Jun2025 02:53:58.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> gracias papu xd
+[16Jun2025 02:53:59.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Defunct Machinery]
+[16Jun2025 02:54:07.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ostia
+[16Jun2025 02:54:18.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> gracias jaime
+[16Jun2025 02:54:45.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> vamo chef
