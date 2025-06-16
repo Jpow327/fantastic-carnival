@@ -1991,6 +1991,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-06-16 03:34:53 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -2220,6 +2226,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-06-09 03:36:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-06-16 03:36:32 +0000"
     },
     "done": true
   },
@@ -2489,7 +2501,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-16 03:31:07 +0000"
+      "not_target": "2025-06-16 03:34:28 +0000"
     },
     "done": false
   },

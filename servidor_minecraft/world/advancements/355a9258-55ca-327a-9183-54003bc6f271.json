@@ -711,6 +711,12 @@
     },
     "done": true
   },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2025-06-16 03:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-06-16 00:25:43 +0000"
@@ -1121,6 +1127,12 @@
       "log_spam_fixer": "2025-06-06 03:10:25 +0000"
     },
     "done": false
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-06-16 03:35:47 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
@@ -2438,12 +2450,6 @@
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-06-16 03:31:37 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
