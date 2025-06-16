@@ -522,6 +522,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-16 03:52:13 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/etherium_shovel": {
     "criteria": {
       "has_parent_recipe": "2025-06-08 00:20:45 +0000"
@@ -1041,6 +1047,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/ender_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 03:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "atmospheric:rainforest_basin": "2025-06-06 03:16:22 +0000",
@@ -1139,6 +1151,12 @@
       "has_parent_recipe": "2025-06-11 03:30:02 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-06-16 03:52:38 +0000"
+    },
+    "done": true
   },
   "apotheosis:enchanting/enchanter": {
     "criteria": {
@@ -1371,6 +1389,12 @@
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-06-16 03:52:13 +0000"
     },
     "done": true
   },
@@ -1773,9 +1797,10 @@
   },
   "enigmaticlegacy:recipes/generic/ender_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-06-06 03:16:06 +0000"
+      "has_parent_recipe": "2025-06-06 03:16:06 +0000",
+      "has_items": "2025-06-16 03:55:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
@@ -1896,6 +1921,7 @@
     "criteria": {
       "fletchingtable": "2025-06-15 03:02:17 +0000",
       "brewingstand": "2025-06-16 02:55:04 +0000",
+      "grindstone": "2025-06-16 03:42:49 +0000",
       "smithingtable": "2025-06-06 03:27:36 +0000",
       "blastfurnace": "2025-06-06 03:27:36 +0000",
       "lectern": "2025-06-13 02:32:19 +0000"
@@ -2051,6 +2077,12 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "bacon_and_eggs": "2025-06-09 03:52:35 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "nether_wart": "2025-06-16 03:52:38 +0000"
     },
     "done": false
   },

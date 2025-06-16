@@ -2465,3 +2465,122 @@
 [16Jun2025 03:46:13.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> me quito la armor
 [16Jun2025 03:46:14.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> me desnudo
 [16Jun2025 03:46:19.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> DIABLO
+[16Jun2025 03:46:31.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> falta solo pereza?
+[16Jun2025 03:46:47.736] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[16Jun2025 03:46:47.736] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[16Jun2025 03:46:47.736] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[16Jun2025 03:46:47.736] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[16Jun2025 03:46:49.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> wtf
+[16Jun2025 03:46:52.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> se creo
+[16Jun2025 03:46:56.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> q se creo
+[16Jun2025 03:47:05.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Hellfire Mantle]
+[16Jun2025 03:47:06.898] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[16Jun2025 03:47:10.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ah no
+[16Jun2025 03:47:12.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> y ira
+[16Jun2025 03:47:12.405] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[16Jun2025 03:47:13.703] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[16Jun2025 03:47:14.404] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[16Jun2025 03:47:17.281] [Worker-Main296/WARN] [ModernFix/]: The namespace bygonenether contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Jun2025 03:47:21.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> spawneare ira
+[16Jun2025 03:47:31.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3751ms or 75 ticks behind
+[16Jun2025 03:47:49.044] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[16Jun2025 03:47:52.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> eh
+[16Jun2025 03:47:54.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> no dio nada
+[16Jun2025 03:47:55.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[16Jun2025 03:48:16.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> cual faltA?
+[16Jun2025 03:48:22.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> cual lust creo
+[16Jun2025 03:48:25.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> Sloth
+[16Jun2025 03:48:25.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> o sluth
+[16Jun2025 03:48:29.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> deje miro
+[16Jun2025 03:48:45.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ah si
+[16Jun2025 03:48:47.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> sloth
+[16Jun2025 03:48:47.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> quiero probar este
+[16Jun2025 03:48:54.466] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[16Jun2025 03:49:25.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> no me lo completo .v
+[16Jun2025 03:49:32.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> que dio
+[16Jun2025 03:49:33.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> xd
+[16Jun2025 03:49:34.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> a ya
+[16Jun2025 03:49:36.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> a
+[16Jun2025 03:49:39.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> vaya cagada
+[16Jun2025 03:50:04.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> definitivamente el mas mamon era gula
+[16Jun2025 03:50:23.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tengo disque
+[16Jun2025 03:50:26.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> puppet of strife
+[16Jun2025 03:50:29.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> y un huevo
+[16Jun2025 03:50:57.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> insatiable
+[16Jun2025 03:51:28.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> SIGIL OF SOCKET
+[16Jun2025 03:51:35.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> jeff
+[16Jun2025 03:51:40.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> sigil of socket
+[16Jun2025 03:51:44.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> pille
+[16Jun2025 03:51:45.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> fuego
+[16Jun2025 03:52:04.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> guardelo
+[16Jun2025 03:52:05.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> diablo
+[16Jun2025 03:52:11.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> eso le sirve para añadir un slot a un arma o armadura
+[16Jun2025 03:52:12.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> creo
+[16Jun2025 03:52:13.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Introduction to Chaos]
+[16Jun2025 03:52:13.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Enchanter]
+[16Jun2025 03:52:16.682] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[16Jun2025 03:52:21.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> vere si hay mas boss
+[16Jun2025 03:52:38.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [A Seedy Place]
+[16Jun2025 03:52:57.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> 2 mas y ya la tenemos.
+[16Jun2025 03:52:59.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> cisco
+[16Jun2025 03:53:02.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> matamos a cisco?=
+[16Jun2025 03:53:04.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[16Jun2025 03:53:05.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
+[16Jun2025 03:53:09.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> con ese toca hacer una vaina muy rata
+[16Jun2025 03:53:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[16Jun2025 03:53:15.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> pq esa gonorrea
+[16Jun2025 03:53:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> one hsotea
+[16Jun2025 03:53:21.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> e invoca minions
+[16Jun2025 03:53:21.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[16Jun2025 03:53:24.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> que one shotean
+[16Jun2025 03:53:24.479] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[16Jun2025 03:53:32.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> toca hacer una piscina de 4 bloques de profundidad
+[16Jun2025 03:53:35.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> y pegarle desde abajo
+[16Jun2025 03:53:36.233] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/145700, l='ServerLevel[world]', x=2056.51, y=80.00, z=950.18, removed=DISCARDED]
+[16Jun2025 03:53:40.734] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/150362, l='ServerLevel[world]', x=2026.78, y=71.00, z=941.46, removed=DISCARDED]
+[16Jun2025 03:53:40.735] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/150364, l='ServerLevel[world]', x=2026.78, y=71.00, z=941.46, removed=DISCARDED]
+[16Jun2025 03:53:40.840] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/152239, l='ServerLevel[world]', x=2025.62, y=72.36, z=941.34, removed=DISCARDED]
+[16Jun2025 03:53:44.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> fellking
+[16Jun2025 03:53:50.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> mas tocho que cisco
+[16Jun2025 03:53:52.693] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/145700, l='ServerLevel[world]', x=2056.51, y=80.00, z=950.18, removed=DISCARDED]
+[16Jun2025 03:53:53.393] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/152239, l='ServerLevel[world]', x=2025.62, y=72.36, z=941.34, removed=DISCARDED]
+[16Jun2025 03:53:53.393] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/150362, l='ServerLevel[world]', x=2026.78, y=71.00, z=941.46, removed=DISCARDED]
+[16Jun2025 03:53:53.393] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/150364, l='ServerLevel[world]', x=2026.78, y=71.00, z=941.46, removed=DISCARDED]
+[16Jun2025 03:53:53.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[16Jun2025 03:54:01.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ese es el de 30k de vida
+[16Jun2025 03:54:03.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> que mande por disc
+[16Jun2025 03:54:05.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> una vez
+[16Jun2025 03:54:05.586] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[16Jun2025 03:54:05.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[16Jun2025 03:54:05.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[16Jun2025 03:54:05.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[16Jun2025 03:54:19.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[16Jun2025 03:54:39.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ya maxee mi skiltree
+[16Jun2025 03:54:41.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> xd
+[16Jun2025 03:54:46.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> recomienda maxearlo?
+[16Jun2025 03:54:47.387] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[16Jun2025 03:54:47.387] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[16Jun2025 03:54:47.387] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[16Jun2025 03:54:47.387] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[16Jun2025 03:55:03.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> cuantos scrolls se ocupan??
+[16Jun2025 03:55:09.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> jeff, requiero 4 enderchest
+[16Jun2025 03:55:16.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> e
+[16Jun2025 03:55:23.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to TanatosGX]
+[16Jun2025 03:55:25.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> para hacer el library enchantment
+[16Jun2025 03:55:28.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> como se fabrica
+[16Jun2025 03:55:32.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> un enderchest?
+[16Jun2025 03:55:44.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tienes la obsidiana?
+[16Jun2025 03:56:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> tana
+[16Jun2025 03:56:04.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tana
+[16Jun2025 03:56:06.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ahi te di los ojos
+[16Jun2025 03:56:08.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> y las velas
+[16Jun2025 03:56:10.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> solo te faltaria la obsidiana
+[16Jun2025 03:56:11.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> que yo puse
+[16Jun2025 03:56:11.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> aqui ta
+[16Jun2025 03:56:17.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> las velas tambien boostean
+[16Jun2025 03:56:19.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> la mesaa
+[16Jun2025 03:56:29.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> las quitaron
+[16Jun2025 03:56:30.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[16Jun2025 03:56:33.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> pongan todo los libros ahi
+[16Jun2025 03:56:41.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> recuerden
+[16Jun2025 03:56:43.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> quanta = malo
