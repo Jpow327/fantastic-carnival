@@ -484,6 +484,7 @@
       "minecraft:vindicator": "2025-06-15 01:32:23 +0000",
       "minecraft:magma_cube": "2025-06-16 02:19:51 +0000",
       "minecraft:spider": "2025-06-06 04:13:00 +0000",
+      "minecraft:piglin_brute": "2025-06-16 03:01:47 +0000",
       "minecraft:creeper": "2025-06-13 02:42:54 +0000",
       "minecraft:wither": "2025-06-16 00:08:51 +0000",
       "minecraft:evoker": "2025-06-15 02:29:06 +0000",
@@ -492,6 +493,7 @@
       "minecraft:wither_skeleton": "2025-06-09 04:12:08 +0000",
       "minecraft:husk": "2025-06-11 03:37:31 +0000",
       "minecraft:cave_spider": "2025-06-06 04:04:40 +0000",
+      "minecraft:piglin": "2025-06-16 03:01:52 +0000",
       "minecraft:silverfish": "2025-06-06 03:31:20 +0000",
       "minecraft:stray": "2025-06-09 04:10:38 +0000",
       "minecraft:enderman": "2025-06-10 03:45:58 +0000",
@@ -571,7 +573,8 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
-      "fletcher": "2025-06-15 03:06:41 +0000"
+      "fletcher": "2025-06-15 03:06:41 +0000",
+      "librarian": "2025-06-16 02:54:10 +0000"
     },
     "done": false
   },
@@ -898,6 +901,12 @@
       "has_parent_recipe": "2025-06-08 00:20:45 +0000"
     },
     "done": false
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-06-16 03:05:03 +0000"
+    },
+    "done": true
   },
   "comforts:rope_and_nail": {
     "criteria": {
@@ -1861,6 +1870,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "fletchingtable": "2025-06-15 03:02:17 +0000",
+      "brewingstand": "2025-06-16 02:55:04 +0000",
       "smithingtable": "2025-06-06 03:27:36 +0000",
       "blastfurnace": "2025-06-06 03:27:36 +0000",
       "lectern": "2025-06-13 02:32:19 +0000"
@@ -2416,6 +2426,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-06-16 03:05:23 +0000"
+    },
+    "done": false
+  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-06-08 00:31:37 +0000"
@@ -2480,6 +2496,12 @@
   "enigmaticlegacy:book/materials/ender_rod": {
     "criteria": {
       "has_the_recipe": "2025-06-08 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-06-16 03:04:41 +0000"
     },
     "done": true
   },

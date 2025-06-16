@@ -447,6 +447,7 @@
       "minecraft:pillager": "2025-06-09 03:55:19 +0000",
       "minecraft:blaze": "2025-06-15 03:22:07 +0000",
       "minecraft:skeleton": "2025-06-10 03:24:19 +0000",
+      "minecraft:hoglin": "2025-06-16 03:01:53 +0000",
       "minecraft:magma_cube": "2025-06-16 02:11:06 +0000",
       "minecraft:spider": "2025-06-09 04:11:37 +0000",
       "minecraft:piglin_brute": "2025-06-16 02:26:24 +0000",
@@ -1303,6 +1304,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-06-16 02:56:56 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 03:59:14 +0000"
@@ -1356,6 +1363,12 @@
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-06-16 02:56:56 +0000"
     },
     "done": true
   },
@@ -2208,6 +2221,12 @@
   "enigmaticlegacy:book/materials/ender_rod": {
     "criteria": {
       "has_the_recipe": "2025-06-11 03:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-06-16 03:04:08 +0000"
     },
     "done": true
   },

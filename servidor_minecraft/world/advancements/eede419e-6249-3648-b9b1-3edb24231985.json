@@ -494,6 +494,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-05 20:20:19 +0000",
+      "minecraft:blaze": "2025-06-16 02:58:42 +0000",
       "minecraft:skeleton": "2025-06-05 20:44:55 +0000",
       "savage_and_ravage:creepie": "2025-06-15 01:29:47 +0000",
       "minecraft:ravager": "2025-06-08 00:38:22 +0000",
@@ -1105,6 +1106,12 @@
       "log_spam_fixer": "2025-06-05 16:36:55 +0000"
     },
     "done": false
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-06-16 03:05:32 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
@@ -1843,6 +1850,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-06-16 02:53:59 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-06-05 22:11:11 +0000"
@@ -2069,6 +2082,12 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-06-16 02:57:19 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
       "has_parent_recipe": "2025-06-09 03:31:25 +0000",
@@ -2103,6 +2122,12 @@
   "vinery:stackable_log": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-06-16 02:55:46 +0000"
     },
     "done": true
   },
@@ -2456,7 +2481,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-16 01:38:31 +0000"
+      "not_target": "2025-06-16 03:01:43 +0000"
     },
     "done": false
   },
@@ -2530,6 +2555,12 @@
   "enigmaticlegacy:book/materials/ender_rod": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-06-16 03:05:18 +0000"
     },
     "done": true
   },
