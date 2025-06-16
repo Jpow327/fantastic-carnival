@@ -1260,6 +1260,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem_cut": {
+    "criteria": {
+      "cut": "2025-06-16 04:10:33 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/extradimensional_eye": {
     "criteria": {
       "has_the_recipe": "2025-06-10 03:33:20 +0000"
@@ -2445,12 +2451,6 @@
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-06-16 04:02:14 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {

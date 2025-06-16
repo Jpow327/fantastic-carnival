@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "cisco_mod:winter_harbinger": {
+    "criteria": {
+      "winter_harbinger": "2025-06-16 04:15:34 +0000"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -2491,7 +2497,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-16 04:06:07 +0000"
+      "target": "2025-06-16 04:08:23 +0000"
     },
     "done": false
   },

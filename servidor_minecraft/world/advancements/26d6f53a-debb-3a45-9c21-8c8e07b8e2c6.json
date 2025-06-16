@@ -452,6 +452,7 @@
       "minecraft:spider": "2025-06-09 04:11:37 +0000",
       "minecraft:piglin_brute": "2025-06-16 02:26:24 +0000",
       "minecraft:creeper": "2025-06-11 04:39:37 +0000",
+      "minecraft:phantom": "2025-06-16 04:08:37 +0000",
       "minecraft:zombified_piglin": "2025-06-15 01:28:21 +0000",
       "minecraft:wither_skeleton": "2025-06-15 23:19:36 +0000",
       "minecraft:husk": "2025-06-09 04:13:35 +0000",
@@ -1508,6 +1509,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-16 04:08:37 +0000"
+    },
+    "done": false
+  },
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -2184,7 +2191,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-06-16 04:06:41 +0000"
+      "not_target": "2025-06-16 04:14:09 +0000"
     },
     "done": false
   },
