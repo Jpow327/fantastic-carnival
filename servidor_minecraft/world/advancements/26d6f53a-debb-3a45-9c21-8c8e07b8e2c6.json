@@ -235,6 +235,12 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-06-16 00:03:26 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-06-06 04:23:29 +0000",
@@ -829,6 +835,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-16 00:03:26 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/etherium_shovel": {
     "criteria": {
       "has_parent_recipe": "2025-06-11 03:43:10 +0000"
@@ -913,6 +925,12 @@
       "has_ingot": "2025-06-11 05:26:03 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "fletcher": "2025-06-16 00:03:26 +0000"
+    },
+    "done": false
   },
   "toms_storage:unlock_chest": {
     "criteria": {
@@ -1363,6 +1381,12 @@
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-06-16 00:03:26 +0000"
     },
     "done": true
   },
@@ -2007,6 +2031,12 @@
   "vinery:campfire": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-06-15 23:51:38 +0000"
     },
     "done": true
   },
