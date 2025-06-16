@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-06-16 01:09:22 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/novelty_hat": {
     "criteria": {
       "sopa_de_macaco": "2025-06-15 04:22:57 +0000"
@@ -451,6 +457,12 @@
       "savage_and_ravage:skeleton_villager": "2025-06-15 01:29:01 +0000"
     },
     "done": false
+  },
+  "simplyswords:watching_warglaive": {
+    "criteria": {
+      "requirement": "2025-06-16 01:04:03 +0000"
+    },
+    "done": true
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
@@ -2331,12 +2343,6 @@
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-06-16 01:01:00 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
