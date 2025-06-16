@@ -248,7 +248,10 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-06-16 00:37:40 +0000",
+      "entered_stables": "2025-06-16 00:38:27 +0000",
       "entered_hay_storage": "2025-06-05 21:24:31 +0000",
+      "entered_flying_dutchman": "2025-06-16 00:34:27 +0000",
       "entered_druid_circle": "2025-06-13 05:30:13 +0000"
     },
     "done": false
@@ -340,6 +343,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-06-05 16:40:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-06-16 00:47:56 +0000"
     },
     "done": true
   },
@@ -1018,6 +1027,7 @@
       "minecraft:deep_ocean": "2025-06-09 03:22:30 +0000",
       "atmospheric:rainforest": "2025-06-05 16:40:41 +0000",
       "atmospheric:spiny_thicket": "2025-06-13 06:13:35 +0000",
+      "minecraft:birch_forest": "2025-06-16 00:48:36 +0000",
       "minecraft:bamboo_jungle": "2025-06-10 23:21:18 +0000",
       "minecraft:savanna_plateau": "2025-06-06 04:16:57 +0000",
       "minecraft:beach": "2025-06-15 03:47:35 +0000",
@@ -1505,6 +1515,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:in_the_air": {
+    "criteria": {
+      "entered_flying_dutchman": "2025-06-16 00:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-06-16 00:22:27 +0000"
@@ -1642,6 +1658,12 @@
   "enigmaticaddons:book/accessories/hell_blade_charm": {
     "criteria": {
       "has_items": "2025-06-05 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-06-16 00:39:06 +0000"
     },
     "done": true
   },
@@ -2433,9 +2455,29 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-16 00:11:23 +0000"
+      "!bit13": "2025-06-16 00:51:09 +0000",
+      "!bit14": "2025-06-16 00:51:09 +0000",
+      "!bit11": "2025-06-16 00:51:09 +0000",
+      "!bit12": "2025-06-16 00:51:09 +0000",
+      "!bit10": "2025-06-16 00:51:09 +0000",
+      "!bit9": "2025-06-16 00:51:09 +0000",
+      "!bit8": "2025-06-16 00:51:09 +0000",
+      "!bit7": "2025-06-16 00:51:09 +0000",
+      "!bit6": "2025-06-16 00:51:09 +0000",
+      "!bit5": "2025-06-16 00:51:09 +0000",
+      "!bit4": "2025-06-16 00:51:09 +0000",
+      "!bit3": "2025-06-16 00:51:09 +0000",
+      "!bit2": "2025-06-16 00:51:09 +0000",
+      "!bit1": "2025-06-16 00:51:09 +0000",
+      "!bit0": "2025-06-16 00:51:09 +0000"
     },
     "done": false
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-06-16 00:47:27 +0000"
+    },
+    "done": true
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
