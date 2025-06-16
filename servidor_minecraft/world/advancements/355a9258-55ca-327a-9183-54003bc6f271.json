@@ -2165,6 +2165,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/ancient_gem": {
+    "criteria": {
+      "gem": "2025-06-16 04:05:52 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2025-06-09 03:53:34 +0000"
@@ -2482,6 +2488,12 @@
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-06-16 04:06:07 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
