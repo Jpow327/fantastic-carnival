@@ -914,6 +914,12 @@
     },
     "done": false
   },
+  "cisco_mod:fitforaking": {
+    "criteria": {
+      "fitforaking": "2025-06-16 17:47:49 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -1939,6 +1945,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "smithingtable": "2025-06-16 17:49:16 +0000",
       "stonecutter": "2025-06-11 05:41:02 +0000"
     },
     "done": false
@@ -2513,7 +2520,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-06-16 04:04:27 +0000"
+      "direct": "2025-06-16 17:40:27 +0000"
     },
     "done": false
   },
@@ -2636,6 +2643,12 @@
   "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
     "criteria": {
       "has_items": "2025-06-05 20:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-16 17:47:09 +0000"
     },
     "done": true
   },
