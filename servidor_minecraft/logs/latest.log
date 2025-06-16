@@ -1338,3 +1338,29 @@
 [16Jun2025 01:32:46.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> juan tenes cuarzo
 [16Jun2025 01:33:11.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> no el cuarzo el que se pica xd
 [16Jun2025 01:33:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> eh no
+[16Jun2025 01:33:21.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[16Jun2025 01:33:29.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> denme las pociones de regeneracion
+[16Jun2025 01:33:45.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> solo 1?
+[16Jun2025 01:33:56.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> se XD
+[16Jun2025 01:35:05.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> hay aglunas que no sirven xd
+[16Jun2025 01:35:21.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> como se hacia el yunque
+[16Jun2025 01:39:39.128] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/620, l='ServerLevel[world]', x=2130.94, y=10.19, z=815.22, removed=DISCARDED]
+[16Jun2025 01:40:08.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tana
+[16Jun2025 01:40:09.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ten
+[16Jun2025 01:40:43.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> agarra esto jeff
+[16Jun2025 01:41:57.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> jeff me toco el que le roba los efectos a los mobs XD
+[16Jun2025 01:42:03.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> god
+[16Jun2025 01:43:12.874] [Worker-Main300/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[16Jun2025 01:43:12.874] [Worker-Main300/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[16Jun2025 01:43:12.876] [Worker-Main300/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[16Jun2025 01:43:12.885] [Worker-Main300/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$Interp
+[16Jun2025 01:43:12.885] [Worker-Main300/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$NoiseType
+[16Jun2025 01:43:12.885] [Worker-Main300/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$FractalType
+[16Jun2025 01:43:12.886] [Worker-Main300/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularDistanceFunction
+[16Jun2025 01:43:12.887] [Worker-Main300/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularReturnType
+[16Jun2025 01:43:15.813] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[16Jun2025 01:43:21.003] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[16Jun2025 01:43:21.003] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[16Jun2025 01:43:21.003] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[16Jun2025 01:43:21.003] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[16Jun2025 01:43:30.796] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
