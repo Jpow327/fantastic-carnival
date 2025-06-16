@@ -2712,3 +2712,359 @@
 [16Jun2025 04:17:06.668] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [16Jun2025 04:17:06.668] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to zJ3ff
 [16Jun2025 04:17:21.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> me voy a hacer sharpness 11
+[16Jun2025 04:17:31.991] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[16Jun2025 04:17:31.991] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[16Jun2025 04:17:31.991] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[16Jun2025 04:17:31.992] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[16Jun2025 04:18:20.337] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/145700, l='ServerLevel[world]', x=2056.51, y=80.00, z=950.18, removed=DISCARDED]
+[16Jun2025 04:20:05.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has completed the challenge [Herald Of Ragnarok]
+[16Jun2025 04:20:09.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan
+[16Jun2025 04:20:11.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> tegna
+[16Jun2025 04:20:16.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has completed the challenge [Herald Of Ragnarok]
+[16Jun2025 04:20:22.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan
+[16Jun2025 04:20:27.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> e
+[16Jun2025 04:20:29.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> q
+[16Jun2025 04:20:32.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has completed the challenge [Herald Of Ragnarok]
+[16Jun2025 04:20:58.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has completed the challenge [Winter's Harbinger]
+[16Jun2025 04:21:26.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> jeff usted quiere la Fell ragnarok?
+[16Jun2025 04:21:28.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> no
+[16Jun2025 04:21:30.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> frostfang
+[16Jun2025 04:21:48.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> k
+[16Jun2025 04:22:02.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> jeff, esa wea esta caro XD
+[16Jun2025 04:22:14.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> sip
+[16Jun2025 04:22:18.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ya casi la consigo
+[16Jun2025 04:22:29.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> bueno
+[16Jun2025 04:22:30.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> chat
+[16Jun2025 04:22:34.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> me toca cerrar
+[16Jun2025 04:22:35.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> XD
+[16Jun2025 04:22:55.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> diablo, justo iba a encantar la espada
+[16Jun2025 04:22:59.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> xD
+[16Jun2025 04:23:01.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> bueno
+[16Jun2025 04:23:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> hablamo
+[16Jun2025 04:23:04.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff lost connection: Disconnected
+[16Jun2025 04:23:04.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff left the game
+[16Jun2025 04:23:13.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Jun2025 04:23:13.502] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[16Jun2025 04:23:13.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jun2025 04:23:13.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jun2025 04:23:13.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TanatosGX lost connection: Server closed
+[16Jun2025 04:23:13.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX left the game
+[16Jun2025 04:23:13.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jun2025 04:23:13.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jun2025 04:23:13.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jun2025 04:23:13.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jun2025 04:23:13.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[16Jun2025 04:23:13.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[16Jun2025 04:23:13.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[16Jun2025 04:23:13.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[16Jun2025 04:23:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[16Jun2025 04:23:14.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jun2025 04:23:14.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jun2025 04:23:14.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jun2025 04:23:14.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[16Jun2025 04:23:14.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[16Jun2025 04:23:14.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[16Jun2025 04:23:14.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[16Jun2025 04:23:14.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[16Jun2025 04:23:14.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Jun2025 04:23:14.582] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[16Jun2025 04:23:14.611] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@2ed5f9b
+[16Jun2025 04:23:14.628] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/oriacs-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.629] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/apoli-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.630] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/upgradednetherite_items-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.631] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/biggerstacks-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.632] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/upgradednetherite-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.633] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/solapplepie-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.634] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/corpse-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.635] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/curios-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.636] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/constructionwand-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.637] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/toms_storage-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.638] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/jei-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.640] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/pehkui-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.640] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/forge-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.646] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/whisperwoods-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.646] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/structurize-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.649] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/upgradednetherite_ultimate-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.650] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/xptome-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.651] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/aether-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.652] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/sophisticatedbackpacks-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.653] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/getittogetherdrops-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.676] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/easy_villagers-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.688] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/irons_spellbooks-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[16Jun2025 04:23:14.690] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /workspaces/fantastic-carnival/servidor_minecraft/config/minecolonies-server.toml from tracker!
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23562!/:4.0.7]
+	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.4.2.jar%23660!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.4.2-universal.jar%23664!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23659!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]

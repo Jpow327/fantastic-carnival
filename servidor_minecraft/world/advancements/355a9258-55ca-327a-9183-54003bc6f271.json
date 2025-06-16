@@ -765,6 +765,12 @@
     },
     "done": false
   },
+  "cisco_mod:herald_of_ragnarok": {
+    "criteria": {
+      "herald_of_ragnarok": "2025-06-16 04:20:05 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-06 03:10:24 +0000"

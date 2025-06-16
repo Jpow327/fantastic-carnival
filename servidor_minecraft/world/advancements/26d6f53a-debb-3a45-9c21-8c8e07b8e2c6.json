@@ -681,6 +681,12 @@
     },
     "done": true
   },
+  "cisco_mod:herald_of_ragnarok": {
+    "criteria": {
+      "herald_of_ragnarok": "2025-06-16 04:20:32 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_chestplate": {
     "criteria": {
       "soul_heart": "2025-06-10 04:08:12 +0000"
@@ -2191,7 +2197,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-06-16 04:14:09 +0000"
+      "not_target": "2025-06-16 04:22:00 +0000"
     },
     "done": false
   },
