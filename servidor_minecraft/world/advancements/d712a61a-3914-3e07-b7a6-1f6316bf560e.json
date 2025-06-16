@@ -231,6 +231,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-13 02:17:39 +0000",
+      "entered_stables": "2025-06-16 02:35:54 +0000",
       "entered_pillager_camp": "2025-06-06 04:16:47 +0000",
       "entered_flying_dutchman": "2025-06-08 00:42:00 +0000",
       "entered_druid_circle": "2025-06-08 00:57:18 +0000",
@@ -256,6 +257,12 @@
       "has_items": "2025-06-06 03:59:53 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-16 01:49:58 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
@@ -1406,6 +1413,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-06-16 01:44:16 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-06-06 03:21:01 +0000"
@@ -1477,6 +1490,12 @@
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-06-16 01:44:16 +0000"
     },
     "done": true
   },
@@ -1628,6 +1647,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-07 23:57:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2025-06-16 01:44:22 +0000"
     },
     "done": true
   },
@@ -1999,6 +2024,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-06-16 01:43:51 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -2046,6 +2077,12 @@
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-16 01:49:58 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_purple": {
     "criteria": {
@@ -2260,6 +2297,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 01:49:58 +0000"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2025-06-06 03:10:42 +0000"
@@ -2343,6 +2386,12 @@
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-16 02:31:26 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
@@ -2441,6 +2490,12 @@
       "log_spam_fixer": "2025-06-06 03:10:43 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2025-06-16 01:49:58 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
