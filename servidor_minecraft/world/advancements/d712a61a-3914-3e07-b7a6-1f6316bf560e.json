@@ -282,6 +282,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/relics/revival_leaf": {
+    "criteria": {
+      "has_items": "2025-06-17 03:40:06 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/redstonelamps": {
     "criteria": {
       "has_parent_recipe": "2025-06-16 01:49:58 +0000"
@@ -614,6 +620,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:nerves_of_steel": {
+    "criteria": {
+      "nerves_of_steel": "2025-06-17 03:33:29 +0000"
     },
     "done": true
   },
