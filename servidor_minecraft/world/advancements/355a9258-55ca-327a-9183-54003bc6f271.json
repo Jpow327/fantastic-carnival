@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-17 22:30:07 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-06-06 03:16:06 +0000",
@@ -1706,6 +1712,12 @@
     },
     "done": false
   },
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+    "criteria": {
+      "requirement": "2025-06-17 22:30:06 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-06-06 03:16:06 +0000"
@@ -2692,6 +2704,7 @@
       "byg:araucaria_savanna": "2025-06-13 04:42:59 +0000",
       "byg:crag_gardens": "2025-06-09 03:44:02 +0000",
       "byg:forgotten_forest": "2025-06-06 03:10:25 +0000",
+      "byg:crimson_gardens": "2025-06-17 22:28:05 +0000",
       "byg:baobab_savanna": "2025-06-06 03:50:03 +0000",
       "byg:amaranth_fields": "2025-06-08 00:57:21 +0000",
       "byg:ebony_woods": "2025-06-09 03:46:32 +0000",
@@ -2838,6 +2851,7 @@
   },
   "repurposed_structures:ruins": {
     "criteria": {
+      "in_ruins_nether": "2025-06-17 22:26:26 +0000",
       "in_ruins_land_warm": "2025-06-06 03:33:18 +0000"
     },
     "done": false
@@ -2876,6 +2890,12 @@
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-06-17 02:36:00 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:lucky_rock": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-17 22:25:24 +0000"
     },
     "done": true
   },

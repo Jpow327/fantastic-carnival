@@ -502,6 +502,7 @@
       "minecraft:ghast": "2025-06-16 03:45:05 +0000",
       "minecraft:vindicator": "2025-06-15 01:31:05 +0000",
       "minecraft:spider": "2025-06-06 03:54:37 +0000",
+      "minecraft:creeper": "2025-06-17 22:27:30 +0000",
       "minecraft:evoker": "2025-06-17 00:33:22 +0000",
       "minecraft:phantom": "2025-06-16 03:29:01 +0000",
       "minecraft:witch": "2025-06-06 03:52:36 +0000",
@@ -2595,6 +2596,12 @@
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-17 22:32:06 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
