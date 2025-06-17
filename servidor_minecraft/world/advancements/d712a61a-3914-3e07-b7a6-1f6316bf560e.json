@@ -390,6 +390,12 @@
     },
     "done": true
   },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2025-06-17 00:57:17 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:creeperling": {
     "criteria": {
       "encountered_creeperling": "2025-06-11 04:57:25 +0000"
@@ -602,6 +608,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-17 00:55:43 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -719,6 +731,12 @@
   "enigmaticaddons:book/tools/astral_spear": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:summon_skeleton_horse": {
+    "criteria": {
+      "summon_skeleton_horse": "2025-06-17 00:55:43 +0000"
     },
     "done": true
   },

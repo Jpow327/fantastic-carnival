@@ -68,30 +68,24 @@
 		}
 		{
 			can_repeat: true
-			icon: {
-				Count: 1b
-				id: "ftbquests:lootcrate"
-				tag: {
-					type: "rare_lootcrate"
-				}
-			}
+			icon: "apotheosis:deepshelf"
 			id: "2F43D065E76BAC8A"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "23BB21904A80BA61"
-				table_id: 7406293268280868751L
+				id: "639CA96C6D96D4DC"
+				table_id: 1328904735845541283L
 				type: "random"
 			}]
 			size: 3.0d
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 12L
+				count: 100L
 				id: "5CAB79426942DF1B"
 				item: "cisco_mod:champion_coin"
 				type: "item"
 			}]
-			title: "Rare Loot Crate"
+			title: "Aphotic Bookshelfs"
 			x: -9.0d
 			y: -4.5d
 		}
@@ -367,26 +361,26 @@
 				id: "apotheosis:gem"
 				tag: {
 					gem: "apotheosis:core/combatant"
-					rarity: "rare"
+					rarity: "ancient"
 				}
 			}
 			id: "759F120170CD9FE7"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "63A02C0B04A14228"
-				table_id: 1709372113236253247L
-				type: "random"
+				id: "64BD83F64707BF79"
+				table_id: 436462268599988983L
+				type: "choice"
 			}]
 			size: 3.0d
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 4L
+				count: 100L
 				id: "604DF5AD0F7BA0A4"
 				item: "cisco_mod:champion_coin"
 				type: "item"
 			}]
-			title: "Random Flawed Gem"
+			title: "Random Perfect Gem"
 			x: 8.5d
 			y: 0.0d
 		}
