@@ -180,6 +180,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/etherium_gear": {
+    "criteria": {
+      "etherium_armor": "2025-06-17 21:57:06 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-06-06 03:31:20 +0000"
@@ -1185,6 +1191,12 @@
     },
     "done": false
   },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-06-17 22:10:09 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
       "has_items": "2025-06-06 04:07:24 +0000"
@@ -1605,7 +1617,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_jungle": "2025-06-06 03:27:43 +0000"
+      "in_pyramid_jungle": "2025-06-06 03:27:43 +0000",
+      "in_pyramid_nether": "2025-06-17 22:21:56 +0000"
     },
     "done": false
   },
@@ -1738,6 +1751,12 @@
   "simplyswords:livyatan": {
     "criteria": {
       "requirement": "2025-06-09 04:08:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-06-17 22:10:30 +0000"
     },
     "done": true
   },
@@ -2747,12 +2766,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-06-17 21:43:55 +0000"
-    },
-    "done": false
-  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-06-08 00:31:37 +0000"
@@ -2985,6 +2998,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/relics/etherium_core": {
+    "criteria": {
+      "has_items": "2025-06-17 21:57:53 +0000"
     },
     "done": true
   },

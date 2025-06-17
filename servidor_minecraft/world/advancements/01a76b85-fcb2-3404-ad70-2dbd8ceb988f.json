@@ -699,6 +699,12 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/rocky_chestplate": {
+    "criteria": {
+      "soul_heart": "2025-06-17 22:19:13 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-05 19:58:30 +0000"
@@ -708,6 +714,12 @@
   "enigmaticaddons:book/tools/astral_spear": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-06-17 22:02:00 +0000"
     },
     "done": true
   },
@@ -1717,6 +1729,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-06-17 21:54:31 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-06-05 20:15:28 +0000"
@@ -2295,12 +2313,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-06-17 21:47:21 +0000"
-    },
-    "done": false
-  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-06-05 19:58:29 +0000"
@@ -2494,6 +2506,12 @@
   "enigmaticlegacy:main/astral_dust": {
     "criteria": {
       "etherium": "2025-06-06 04:00:11 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-06-17 22:02:00 +0000"
     },
     "done": true
   },

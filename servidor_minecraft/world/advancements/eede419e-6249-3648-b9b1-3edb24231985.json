@@ -827,6 +827,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-06-17 21:57:13 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2025-06-17 21:33:02 +0000"
@@ -2531,6 +2537,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-06-17 21:57:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-06-05 20:08:54 +0000"
@@ -2863,6 +2875,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-06-17 22:16:32 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:warden_treasure_bag": {
     "criteria": {
       "bag_opened": "2025-06-15 23:50:50 +0000"
@@ -2920,6 +2938,12 @@
   "enigmaticlegacy:main/astral_dust": {
     "criteria": {
       "etherium": "2025-06-06 04:10:46 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-06-17 21:57:13 +0000"
     },
     "done": true
   },
