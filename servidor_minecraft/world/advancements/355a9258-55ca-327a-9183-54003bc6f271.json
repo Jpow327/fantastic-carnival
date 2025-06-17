@@ -307,6 +307,7 @@
       "entered_pillager_camp": "2025-06-08 00:51:53 +0000",
       "entered_hay_storage": "2025-06-06 04:13:18 +0000",
       "entered_flying_dutchman": "2025-06-08 00:44:26 +0000",
+      "entered_druid_circle": "2025-06-17 23:11:17 +0000",
       "entered_ruined_building": "2025-06-08 00:29:46 +0000"
     },
     "done": false
@@ -546,6 +547,12 @@
       "opened_cart": "2025-06-07 23:52:53 +0000"
     },
     "done": false
+  },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy": "2025-06-17 22:55:03 +0000"
+    },
+    "done": true
   },
   "vinery:cherry_door": {
     "criteria": {
@@ -2574,6 +2581,12 @@
     },
     "done": true
   },
+  "iter_rpg:iter_cursed": {
+    "criteria": {
+      "iter_cursed": "2025-06-17 22:54:19 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-06-06 03:15:53 +0000"
@@ -2613,6 +2626,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-06-06 03:22:10 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:main/get_coffee_beans": {
+    "criteria": {
+      "get_coffee_beans": "2025-06-17 22:43:26 +0000"
     },
     "done": true
   },
@@ -2779,6 +2798,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-17 23:12:23 +0000"
+    },
+    "done": false
+  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-06-08 00:31:37 +0000"
@@ -2905,6 +2930,12 @@
     },
     "done": true
   },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2025-06-17 23:04:59 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
       "log_spam_fixer": "2025-06-06 03:10:25 +0000"
@@ -2976,6 +3007,12 @@
   "enigmaticlegacy:book/tools/astral_breaker": {
     "criteria": {
       "has_the_recipe": "2025-06-17 21:47:19 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/upgrade_seashelf": {
+    "criteria": {
+      "crystal": "2025-06-17 23:09:36 +0000"
     },
     "done": true
   },

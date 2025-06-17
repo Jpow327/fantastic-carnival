@@ -102,6 +102,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-17 23:02:42 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -114,9 +120,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/enigmatic_elytra": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 23:02:42 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2025-06-16 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enigmatic_elytra": {
+    "criteria": {
+      "has_items": "2025-06-17 23:02:42 +0000"
     },
     "done": true
   },
@@ -593,6 +611,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-17 22:53:35 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/night_scroll": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -982,6 +1006,12 @@
       "log_spam_fixer": "2025-06-06 04:23:29 +0000"
     },
     "done": false
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-06-17 22:43:19 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
@@ -1432,6 +1462,12 @@
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-06-17 22:43:19 +0000"
     },
     "done": true
   },
@@ -2036,6 +2072,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-06-17 23:02:49 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2025-06-09 04:13:54 +0000"
@@ -2175,6 +2217,12 @@
     },
     "done": true
   },
+  "iter_rpg:iter_cursed": {
+    "criteria": {
+      "iter_cursed": "2025-06-17 22:47:07 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-06-09 03:58:39 +0000"
@@ -2292,6 +2340,7 @@
       "byg:crag_gardens": "2025-06-09 03:43:08 +0000",
       "byg:forgotten_forest": "2025-06-06 04:23:29 +0000",
       "byg:cherry_blossom_forest": "2025-06-17 04:06:08 +0000",
+      "byg:crimson_gardens": "2025-06-17 22:52:24 +0000",
       "byg:baobab_savanna": "2025-06-09 04:16:41 +0000",
       "byg:amaranth_fields": "2025-06-16 00:41:23 +0000",
       "byg:ebony_woods": "2025-06-09 03:44:35 +0000",
@@ -2340,6 +2389,12 @@
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-17 23:12:25 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {

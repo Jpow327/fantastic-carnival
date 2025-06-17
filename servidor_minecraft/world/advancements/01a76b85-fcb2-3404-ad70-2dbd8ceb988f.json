@@ -2313,12 +2313,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-06-17 22:22:26 +0000"
-    },
-    "done": false
-  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-06-05 19:58:29 +0000"
@@ -2427,6 +2421,12 @@
   "enigmaticaddons:book/misc/sanguinary_handbook": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:the_silver_wolf": {
+    "criteria": {
+      "the_silver_wolf": "2025-06-17 23:06:51 +0000"
     },
     "done": true
   },

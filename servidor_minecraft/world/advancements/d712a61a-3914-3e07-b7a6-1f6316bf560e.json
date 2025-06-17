@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-17 22:53:55 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-06-06 03:21:01 +0000",
@@ -1085,6 +1091,12 @@
     },
     "done": false
   },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-06-17 22:39:06 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
       "has_items": "2025-06-06 04:24:14 +0000"
@@ -1618,6 +1630,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-06-17 22:46:48 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_recipe": "2025-06-06 03:10:42 +0000",
@@ -1745,6 +1763,12 @@
   "ars_nouveau:apprentice_spell_book": {
     "criteria": {
       "has_apprentice_spell_book": "2025-06-15 04:48:55 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-06-17 22:34:46 +0000"
     },
     "done": true
   },
@@ -2024,6 +2048,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "barrel": "2025-06-17 00:19:05 +0000",
+      "brewingstand": "2025-06-17 22:34:09 +0000",
       "grindstone": "2025-06-15 03:42:27 +0000",
       "smithingtable": "2025-06-11 05:05:23 +0000",
       "blastfurnace": "2025-06-10 03:26:33 +0000",
@@ -2405,6 +2430,12 @@
     },
     "done": true
   },
+  "iter_rpg:iter_cursed": {
+    "criteria": {
+      "iter_cursed": "2025-06-17 22:54:19 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-06-06 03:21:31 +0000"
@@ -2596,12 +2627,6 @@
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-06-17 22:32:06 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
