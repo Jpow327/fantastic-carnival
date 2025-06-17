@@ -128,7 +128,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-06-11 06:35:59 +0000"
+      "in_better_zombie_dungeon": "2025-06-11 06:35:59 +0000",
+      "in_better_spider_dungeon": "2025-06-17 21:23:17 +0000"
     },
     "done": false
   },
@@ -952,6 +953,7 @@
       "minecraft:bamboo_jungle": "2025-06-05 22:37:12 +0000",
       "minecraft:savanna_plateau": "2025-06-13 05:33:50 +0000",
       "minecraft:beach": "2025-06-13 02:29:41 +0000",
+      "minecraft:dark_forest": "2025-06-17 21:24:49 +0000",
       "minecraft:sparse_jungle": "2025-06-05 20:02:34 +0000",
       "minecraft:river": "2025-06-05 20:02:32 +0000",
       "minecraft:lukewarm_ocean": "2025-06-05 22:05:12 +0000",
@@ -959,6 +961,8 @@
       "minecraft:dripstone_caves": "2025-06-13 03:53:26 +0000",
       "atmospheric:dunes": "2025-06-13 06:15:35 +0000",
       "minecraft:forest": "2025-06-05 21:35:59 +0000",
+      "minecraft:ocean": "2025-06-17 21:26:44 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-17 21:24:36 +0000",
       "minecraft:meadow": "2025-06-13 05:04:25 +0000",
       "minecraft:savanna": "2025-06-06 03:45:38 +0000",
       "minecraft:plains": "2025-06-05 20:14:33 +0000"
@@ -1100,6 +1104,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2025-06-06 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-06-17 21:24:56 +0000"
     },
     "done": true
   },
@@ -1364,6 +1374,12 @@
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2025-06-17 21:24:56 +0000"
     },
     "done": true
   },
@@ -1811,6 +1827,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-17 21:23:17 +0000"
     },
     "done": true
   },

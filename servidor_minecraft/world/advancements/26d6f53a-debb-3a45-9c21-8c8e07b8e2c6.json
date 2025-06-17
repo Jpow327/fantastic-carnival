@@ -134,7 +134,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-06-17 04:25:58 +0000"
+      "in_better_zombie_dungeon": "2025-06-17 04:25:58 +0000",
+      "in_better_spider_dungeon": "2025-06-17 21:21:43 +0000"
     },
     "done": false
   },
@@ -1146,6 +1147,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-06-17 21:25:58 +0000"
+    },
+    "done": true
+  },
   "cisco_mod:sleeping_sword": {
     "criteria": {
       "sleeping_sword": "2025-06-17 03:13:25 +0000"
@@ -1413,6 +1420,12 @@
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2025-06-17 21:25:58 +0000"
     },
     "done": true
   },
@@ -1849,6 +1862,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-17 21:21:43 +0000"
     },
     "done": true
   },
@@ -2315,6 +2334,12 @@
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-06-17 21:24:08 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
