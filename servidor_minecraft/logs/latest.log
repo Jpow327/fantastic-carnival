@@ -4442,3 +4442,17 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [17Jun2025 02:05:48.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2136, y=10, z=937} BlockPos{x=2136, y=9, z=938}
 [17Jun2025 02:05:48.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2136, y=10, z=937} BlockPos{x=2136, y=9, z=938}
 [17Jun2025 02:11:33.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has completed the challenge [Hope Fades]
+[17Jun2025 02:14:51.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> afk un momento
+[17Jun2025 02:18:46.148] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[17Jun2025 02:18:46.148] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[17Jun2025 02:18:46.148] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[17Jun2025 02:18:46.149] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[17Jun2025 02:19:50.328] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[17Jun2025 02:19:50.328] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[17Jun2025 02:19:50.329] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[17Jun2025 02:29:08.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> tana
+[17Jun2025 02:29:11.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ?
+[17Jun2025 02:29:13.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> chupala
+[17Jun2025 02:29:23.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> Chupala tu nigger
+[17Jun2025 02:30:27.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan, quieres que te de armadura de cuero con maldicion de ligamiento y reparacion?
+[17Jun2025 02:31:09.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has reached the goal [Quaint Scribe]
