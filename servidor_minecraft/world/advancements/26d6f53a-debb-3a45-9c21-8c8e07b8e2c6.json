@@ -132,6 +132,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-17 04:25:58 +0000"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -983,6 +989,7 @@
       "minecraft:birch_forest": "2025-06-16 00:59:02 +0000",
       "minecraft:savanna_plateau": "2025-06-11 00:28:37 +0000",
       "minecraft:beach": "2025-06-15 03:50:22 +0000",
+      "minecraft:dark_forest": "2025-06-17 04:22:15 +0000",
       "minecraft:sparse_jungle": "2025-06-09 03:47:43 +0000",
       "minecraft:lukewarm_ocean": "2025-06-09 04:25:39 +0000",
       "minecraft:river": "2025-06-09 03:47:41 +0000",
@@ -2034,6 +2041,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-17 04:25:58 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2025-06-13 06:17:06 +0000"
@@ -2296,6 +2309,12 @@
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-17 04:27:28 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {

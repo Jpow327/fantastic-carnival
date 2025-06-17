@@ -661,6 +661,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-06-17 04:20:26 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-06-05 19:58:30 +0000"
@@ -1376,6 +1382,12 @@
     "criteria": {
       "has_recipe": "2025-06-05 19:58:30 +0000",
       "has_cobweb": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-06-17 04:20:26 +0000"
     },
     "done": true
   },
