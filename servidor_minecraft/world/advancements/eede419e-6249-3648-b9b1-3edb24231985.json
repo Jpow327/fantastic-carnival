@@ -424,6 +424,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-17 00:20:51 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -1511,6 +1517,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-06-17 00:20:42 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 20:00:02 +0000"
@@ -1589,6 +1601,12 @@
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-06-17 00:20:42 +0000"
     },
     "done": true
   },
@@ -1813,6 +1831,12 @@
   "enigmaticlegacy:recipes/generic/thicc_scroll": {
     "criteria": {
       "has_items": "2025-06-09 03:31:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-06-17 00:33:51 +0000"
     },
     "done": true
   },
@@ -2535,26 +2559,6 @@
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-06-17 00:13:10 +0000",
-      "!bit14": "2025-06-17 00:13:10 +0000",
-      "!bit11": "2025-06-17 00:13:10 +0000",
-      "!bit12": "2025-06-17 00:13:10 +0000",
-      "!bit10": "2025-06-17 00:13:10 +0000",
-      "!bit9": "2025-06-17 00:13:10 +0000",
-      "!bit8": "2025-06-17 00:13:10 +0000",
-      "!bit7": "2025-06-17 00:13:10 +0000",
-      "!bit6": "2025-06-17 00:13:10 +0000",
-      "!bit5": "2025-06-17 00:13:10 +0000",
-      "!bit4": "2025-06-17 00:13:10 +0000",
-      "!bit3": "2025-06-17 00:13:10 +0000",
-      "!bit2": "2025-06-17 00:13:10 +0000",
-      "!bit1": "2025-06-17 00:13:10 +0000",
-      "!bit0": "2025-06-17 00:13:10 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {

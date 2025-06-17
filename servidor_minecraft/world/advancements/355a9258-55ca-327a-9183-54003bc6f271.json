@@ -2509,7 +2509,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-06-17 00:13:28 +0000"
+      "not_target": "2025-06-17 00:33:17 +0000"
     },
     "done": false
   },
@@ -2528,6 +2528,12 @@
   "enigmaticlegacy:recipes/generic/insignia": {
     "criteria": {
       "has_iron_ingot": "2025-06-06 04:03:21 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/materials/ichor_droplet": {
+    "criteria": {
+      "has_items": "2025-06-17 00:33:56 +0000"
     },
     "done": true
   },

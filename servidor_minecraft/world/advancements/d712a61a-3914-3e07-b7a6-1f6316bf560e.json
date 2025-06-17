@@ -459,6 +459,7 @@
       "minecraft:ghast": "2025-06-16 03:45:05 +0000",
       "minecraft:vindicator": "2025-06-15 01:31:05 +0000",
       "minecraft:spider": "2025-06-06 03:54:37 +0000",
+      "minecraft:evoker": "2025-06-17 00:33:22 +0000",
       "minecraft:phantom": "2025-06-16 03:29:01 +0000",
       "minecraft:witch": "2025-06-06 03:52:36 +0000",
       "minecraft:wither_skeleton": "2025-06-16 03:25:27 +0000",
@@ -1029,6 +1030,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-08 00:55:57 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-06-17 00:22:05 +0000",
       "minecraft:taiga": "2025-06-13 04:52:05 +0000",
       "atmospheric:rainforest_basin": "2025-06-06 03:22:01 +0000",
       "minecraft:deep_ocean": "2025-06-08 00:39:20 +0000",
@@ -1085,6 +1087,12 @@
       "log_spam_fixer": "2025-06-06 03:10:43 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-17 00:21:00 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -1916,6 +1924,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-06-17 00:19:05 +0000",
       "grindstone": "2025-06-15 03:42:27 +0000",
       "smithingtable": "2025-06-11 05:05:23 +0000",
       "blastfurnace": "2025-06-10 03:26:33 +0000",
