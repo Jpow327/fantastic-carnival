@@ -926,6 +926,12 @@
     },
     "done": false
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-06-17 00:38:30 +0000"
+    },
+    "done": true
+  },
   "cisco_mod:fitforaking": {
     "criteria": {
       "fitforaking": "2025-06-16 17:47:49 +0000"

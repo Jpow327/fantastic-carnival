@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-06-17 00:41:41 +0000"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -506,7 +512,8 @@
       "minecraft:enderman": "2025-06-10 03:45:58 +0000",
       "minecraft:vex": "2025-06-15 02:29:05 +0000",
       "minecraft:zombie": "2025-06-06 03:55:25 +0000",
-      "minecraft:drowned": "2025-06-13 05:18:26 +0000"
+      "minecraft:drowned": "2025-06-13 05:18:26 +0000",
+      "minecraft:zombie_villager": "2025-06-17 00:40:27 +0000"
     },
     "done": false
   },
@@ -1236,6 +1243,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-06-17 00:38:39 +0000"
+    },
+    "done": true
+  },
   "vinery:coarse_dirt_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1798,6 +1811,13 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-06-06 03:21:14 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:hulk_smash": {
+    "criteria": {
+      "hammer_in_offhand": "2025-06-17 00:40:28 +0000",
+      "hammer_in_mainhand": "2025-06-17 00:40:28 +0000"
     },
     "done": true
   },
@@ -2506,12 +2526,6 @@
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-06-17 00:33:17 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
