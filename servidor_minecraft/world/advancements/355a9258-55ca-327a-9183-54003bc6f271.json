@@ -694,6 +694,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/twisted_potion": {
+    "criteria": {
+      "has_recall_potion": "2025-06-17 01:10:04 +0000"
+    },
+    "done": false
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_hay_storage": "2025-06-06 04:13:18 +0000"
@@ -1522,6 +1528,12 @@
   "enigmaticaddons:book/tools/ichor_spear": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/recall_potion": {
+    "criteria": {
+      "spellstone": "2025-06-17 01:10:04 +0000"
     },
     "done": true
   },
