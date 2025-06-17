@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-06-17 21:33:02 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/disaster_sword": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -818,6 +824,12 @@
   "enigmaticaddons:book/tools/astral_spear": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-06-17 21:33:02 +0000"
     },
     "done": true
   },
@@ -2678,26 +2690,6 @@
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-06-17 21:25:32 +0000",
-      "!bit14": "2025-06-17 21:25:32 +0000",
-      "!bit11": "2025-06-17 21:25:32 +0000",
-      "!bit12": "2025-06-17 21:25:32 +0000",
-      "!bit10": "2025-06-17 21:25:32 +0000",
-      "!bit9": "2025-06-17 21:25:32 +0000",
-      "!bit8": "2025-06-17 21:25:32 +0000",
-      "!bit7": "2025-06-17 21:25:32 +0000",
-      "!bit6": "2025-06-17 21:25:32 +0000",
-      "!bit5": "2025-06-17 21:25:32 +0000",
-      "!bit4": "2025-06-17 21:25:32 +0000",
-      "!bit3": "2025-06-17 21:25:32 +0000",
-      "!bit2": "2025-06-17 21:25:32 +0000",
-      "!bit1": "2025-06-17 21:25:32 +0000",
-      "!bit0": "2025-06-17 21:25:32 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {

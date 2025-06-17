@@ -102,6 +102,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-06-17 21:38:55 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -959,6 +965,7 @@
       "minecraft:lukewarm_ocean": "2025-06-05 22:05:12 +0000",
       "minecraft:stony_shore": "2025-06-05 20:14:42 +0000",
       "minecraft:dripstone_caves": "2025-06-13 03:53:26 +0000",
+      "minecraft:swamp": "2025-06-17 21:31:06 +0000",
       "atmospheric:dunes": "2025-06-13 06:15:35 +0000",
       "minecraft:forest": "2025-06-05 21:35:59 +0000",
       "minecraft:ocean": "2025-06-17 21:26:44 +0000",
@@ -2288,6 +2295,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-17 21:47:21 +0000"
+    },
+    "done": false
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-06-05 19:58:29 +0000"
@@ -2421,6 +2434,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-06-11 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-06-17 21:44:54 +0000"
     },
     "done": true
   },

@@ -1611,6 +1611,12 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-06-17 21:42:00 +0000"
+    },
+    "done": true
+  },
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -2337,7 +2343,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-17 21:24:08 +0000"
+      "not_target": "2025-06-17 21:46:52 +0000"
     },
     "done": false
   },
