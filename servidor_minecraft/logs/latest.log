@@ -7616,3 +7616,129 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [17Jun2025 23:47:10.348] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
 [17Jun2025 23:47:10.349] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [17Jun2025 23:47:10.349] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[17Jun2025 23:47:25.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[17Jun2025 23:47:54.095] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[17Jun2025 23:47:54.095] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[17Jun2025 23:47:54.095] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[17Jun2025 23:47:54.095] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[17Jun2025 23:47:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> bro
+[17Jun2025 23:47:59.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> puta basura
+[17Jun2025 23:48:04.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> que paso xD
+[17Jun2025 23:48:12.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> dice que necesito aprender el hechizo primero
+[17Jun2025 23:49:02.591] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[17Jun2025 23:49:02.591] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[17Jun2025 23:49:02.591] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[17Jun2025 23:49:04.741] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[17Jun2025 23:49:04.741] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[17Jun2025 23:49:04.741] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[17Jun2025 23:50:47.711] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3282e87e
+[17Jun2025 23:50:49.995] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[17Jun2025 23:50:49.995] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[17Jun2025 23:50:49.996] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[17Jun2025 23:50:49.996] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[17Jun2025 23:51:22.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has reached the goal [New Age Librarian]
+[17Jun2025 23:53:14.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> papus
+[17Jun2025 23:53:17.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> me volvi support
+[17Jun2025 23:53:23.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> tengo hechizos de heal en area
+[17Jun2025 23:53:26.718] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:26.718] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[17Jun2025 23:53:26.718] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:26.718] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:26.718] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:27.064] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:27.064] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[17Jun2025 23:53:27.064] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:27.064] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:27.064] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:27.313] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:27.313] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[17Jun2025 23:53:27.314] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:27.314] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:27.314] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:27.567] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:27.567] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[17Jun2025 23:53:27.567] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:27.567] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:27.567] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:27.907] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:27.907] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[17Jun2025 23:53:27.907] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:27.907] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:27.907] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:28.156] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:28.156] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[17Jun2025 23:53:28.156] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:28.156] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:28.156] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:28.458] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:28.459] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[17Jun2025 23:53:28.459] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:28.459] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:28.459] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:28.765] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:28.765] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[17Jun2025 23:53:28.765] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:28.765] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:28.765] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:29.007] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:29.007] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 8 is dual wielding: false
+[17Jun2025 23:53:29.007] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:29.007] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:29.007] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:29.259] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:29.260] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[17Jun2025 23:53:29.260] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:29.260] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:29.260] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:29.517] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:29.517] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 10 is dual wielding: false
+[17Jun2025 23:53:29.517] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:29.517] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:29.517] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:29.769] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:29.769] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 11 is dual wielding: false
+[17Jun2025 23:53:29.769] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:29.769] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:29.769] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:30.014] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:30.015] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 12 is dual wielding: false
+[17Jun2025 23:53:30.015] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:30.015] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:30.015] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:30.312] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jun2025 23:53:30.312] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 13 is dual wielding: false
+[17Jun2025 23:53:30.312] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_backpack
+[17Jun2025 23:53:30.312] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Jun2025 23:53:30.312] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 5
+[17Jun2025 23:53:32.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7264ms or 145 ticks behind
+[17Jun2025 23:53:36.347] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[17Jun2025 23:53:36.347] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[17Jun2025 23:53:43.357] [Worker-Main352/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$Interp
+[17Jun2025 23:53:43.358] [Worker-Main352/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$NoiseType
+[17Jun2025 23:53:43.358] [Worker-Main352/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$FractalType
+[17Jun2025 23:53:43.358] [Worker-Main352/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$CellularDistanceFunction
+[17Jun2025 23:53:43.358] [Worker-Main352/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$CellularReturnType
+[17Jun2025 23:53:45.256] [Worker-Main28/WARN] [ModernFix/]: The namespace ctov contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Jun2025 23:53:56.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[17Jun2025 23:53:56.743] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[17Jun2025 23:53:56.743] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[17Jun2025 23:53:56.743] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[17Jun2025 23:53:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> tana
+[17Jun2025 23:53:57.583] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[17Jun2025 23:53:57.583] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[17Jun2025 23:54:01.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> que
+[17Jun2025 23:54:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> donde esta la inscription table
+[17Jun2025 23:54:08.720] [Worker-Main28/WARN] [ModernFix/]: The namespace ecologics contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Jun2025 23:54:08.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> no la vei
+[17Jun2025 23:54:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> que habla
+[17Jun2025 23:54:22.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> yo la craftee ayer
+[17Jun2025 23:54:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> >:v
+[17Jun2025 23:54:36.266] [Worker-Main28/WARN] [ModernFix/]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Jun2025 23:54:39.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> bruh
+[17Jun2025 23:54:45.606] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[17Jun2025 23:54:45.606] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[17Jun2025 23:55:25.347] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[17Jun2025 23:55:25.347] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[17Jun2025 23:55:25.347] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[17Jun2025 23:55:25.347] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[17Jun2025 23:56:28.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [From The Abyss]

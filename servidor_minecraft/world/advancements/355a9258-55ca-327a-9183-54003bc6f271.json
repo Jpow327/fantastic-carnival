@@ -903,6 +903,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-06-17 23:51:22 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-06 03:10:24 +0000"
@@ -1458,6 +1464,12 @@
   "totw_modded:regular_tower": {
     "criteria": {
       "regular": "2025-06-08 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:harbinger": {
+    "criteria": {
+      "requirement": "2025-06-17 23:56:28 +0000"
     },
     "done": true
   },
@@ -2206,9 +2218,16 @@
       "grindstone": "2025-06-16 03:42:49 +0000",
       "smithingtable": "2025-06-06 03:27:36 +0000",
       "blastfurnace": "2025-06-06 03:27:36 +0000",
-      "lectern": "2025-06-13 02:32:19 +0000"
+      "lectern": "2025-06-13 02:32:19 +0000",
+      "stonecutter": "2025-06-17 23:51:22 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-06-17 23:47:25 +0000"
+    },
+    "done": true
   },
   "toms_storage:unlock_chest": {
     "criteria": {

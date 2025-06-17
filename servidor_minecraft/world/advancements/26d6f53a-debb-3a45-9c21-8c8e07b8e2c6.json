@@ -761,6 +761,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-06-17 23:44:21 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_chestplate": {
     "criteria": {
       "soul_heart": "2025-06-10 04:08:12 +0000"
@@ -1847,6 +1853,12 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "stonecutter": "2025-06-17 23:43:42 +0000"
+    },
+    "done": false
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-06-06 04:23:29 +0000"
@@ -2398,7 +2410,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-17 23:42:05 +0000"
+      "!bit13": "2025-06-17 23:56:34 +0000",
+      "!bit14": "2025-06-17 23:56:34 +0000",
+      "!bit11": "2025-06-17 23:56:34 +0000",
+      "!bit12": "2025-06-17 23:56:34 +0000",
+      "!bit10": "2025-06-17 23:56:34 +0000",
+      "!bit9": "2025-06-17 23:56:34 +0000",
+      "!bit8": "2025-06-17 23:56:34 +0000",
+      "!bit7": "2025-06-17 23:56:34 +0000",
+      "!bit6": "2025-06-17 23:56:34 +0000",
+      "!bit5": "2025-06-17 23:56:34 +0000",
+      "!bit4": "2025-06-17 23:56:34 +0000",
+      "!bit3": "2025-06-17 23:56:34 +0000",
+      "!bit2": "2025-06-17 23:56:34 +0000",
+      "!bit1": "2025-06-17 23:56:34 +0000",
+      "!bit0": "2025-06-17 23:56:34 +0000"
     },
     "done": false
   },
@@ -2643,6 +2669,12 @@
   "meetyourfight:main/root": {
     "criteria": {
       "killed_something": "2025-06-09 03:34:05 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "stonecutter": "2025-06-17 23:43:42 +0000"
     },
     "done": true
   },
