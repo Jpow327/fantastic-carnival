@@ -2382,6 +2382,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-06-17 02:40:34 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2025-06-05 16:36:54 +0000"

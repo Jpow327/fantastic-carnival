@@ -706,6 +706,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2025-06-17 02:38:45 +0000"
+    },
+    "done": true
+  },
   "vinery:dirt_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -1081,6 +1087,7 @@
       "minecraft:jungle": "2025-06-08 00:37:42 +0000",
       "minecraft:windswept_savanna": "2025-06-13 03:20:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-08 00:38:15 +0000",
+      "minecraft:flower_forest": "2025-06-17 02:44:22 +0000",
       "minecraft:frozen_peaks": "2025-06-15 01:37:32 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 04:16:40 +0000",
       "atmospheric:laurel_forest": "2025-06-08 00:30:27 +0000",
@@ -1327,6 +1334,12 @@
   "enigmaticlegacy:book/misc/extradimensional_eye": {
     "criteria": {
       "has_the_recipe": "2025-06-10 03:33:20 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/heaven_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 02:38:45 +0000"
     },
     "done": true
   },
@@ -1588,9 +1601,10 @@
   },
   "enigmaticlegacy:recipes/generic/heaven_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-06-06 03:35:48 +0000"
+      "has_parent_recipe": "2025-06-06 03:35:48 +0000",
+      "has_items": "2025-06-17 02:38:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_pink_from_white": {
     "criteria": {
@@ -1619,6 +1633,12 @@
   "enigmaticlegacy:book/accessories/arcane_scrolls": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:35:48 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:jungle_tower": {
+    "criteria": {
+      "jungle": "2025-06-17 03:00:02 +0000"
     },
     "done": true
   },
@@ -1927,9 +1947,10 @@
   },
   "enigmaticlegacy:recipes/generic/fabulous_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-06-17 02:38:45 +0000",
       "has_items": "2025-06-10 03:47:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_lime_from_white": {
     "criteria": {

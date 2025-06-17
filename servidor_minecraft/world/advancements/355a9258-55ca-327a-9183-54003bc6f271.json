@@ -252,6 +252,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-06-17 02:36:00 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-06-09 04:25:06 +0000"
@@ -623,6 +629,12 @@
     },
     "done": true
   },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-06-17 02:34:58 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/disaster_sword": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -712,6 +724,12 @@
       "has_recall_potion": "2025-06-17 01:10:04 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-17 02:36:00 +0000"
+    },
+    "done": true
   },
   "dungeons_enhanced:root": {
     "criteria": {
@@ -2559,26 +2577,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-06-17 02:05:18 +0000",
-      "!bit14": "2025-06-17 02:05:18 +0000",
-      "!bit11": "2025-06-17 02:05:18 +0000",
-      "!bit12": "2025-06-17 02:05:18 +0000",
-      "!bit10": "2025-06-17 02:05:18 +0000",
-      "!bit9": "2025-06-17 02:05:18 +0000",
-      "!bit8": "2025-06-17 02:05:18 +0000",
-      "!bit7": "2025-06-17 02:05:18 +0000",
-      "!bit6": "2025-06-17 02:05:18 +0000",
-      "!bit5": "2025-06-17 02:05:18 +0000",
-      "!bit4": "2025-06-17 02:05:18 +0000",
-      "!bit3": "2025-06-17 02:05:18 +0000",
-      "!bit2": "2025-06-17 02:05:18 +0000",
-      "!bit1": "2025-06-17 02:05:18 +0000",
-      "!bit0": "2025-06-17 02:05:18 +0000"
-    },
-    "done": false
-  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-06-08 00:31:37 +0000"
@@ -2674,6 +2672,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-17 02:36:00 +0000"
     },
     "done": true
   },

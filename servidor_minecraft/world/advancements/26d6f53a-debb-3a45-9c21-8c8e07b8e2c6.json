@@ -222,6 +222,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-06-17 02:31:09 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-06-15 23:12:57 +0000"
@@ -620,6 +626,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-17 02:31:09 +0000"
     },
     "done": true
   },
@@ -2255,6 +2267,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-06-17 02:59:11 +0000"
+    },
+    "done": false
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-06-06 04:23:29 +0000"
@@ -2338,6 +2356,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-17 02:31:09 +0000"
     },
     "done": true
   },
