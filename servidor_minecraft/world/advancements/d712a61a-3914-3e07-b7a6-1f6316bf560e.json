@@ -606,6 +606,12 @@
     },
     "done": false
   },
+  "majruszsaccessories:tamed_potato_beetle": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-17 23:20:55 +0000"
+    },
+    "done": true
+  },
   "totw_modded:root": {
     "criteria": {
       "sample_trigger": "2025-06-06 03:10:42 +0000"
@@ -1123,6 +1129,7 @@
       "minecraft:beach": "2025-06-08 00:50:51 +0000",
       "minecraft:dark_forest": "2025-06-08 00:36:44 +0000",
       "minecraft:stony_peaks": "2025-06-07 23:56:24 +0000",
+      "minecraft:mangrove_swamp": "2025-06-17 23:15:18 +0000",
       "minecraft:sparse_jungle": "2025-06-06 03:21:25 +0000",
       "minecraft:river": "2025-06-06 03:20:30 +0000",
       "minecraft:lukewarm_ocean": "2025-06-06 03:31:31 +0000",
@@ -2627,6 +2634,12 @@
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-17 23:20:23 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
