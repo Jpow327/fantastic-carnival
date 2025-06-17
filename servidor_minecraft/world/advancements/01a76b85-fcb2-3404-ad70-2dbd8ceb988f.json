@@ -108,6 +108,12 @@
     },
     "done": true
   },
+  "unusualend:we_have_a_problem": {
+    "criteria": {
+      "we_have_a_problem": "2025-06-17 04:08:09 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-06-05 20:01:20 +0000"
@@ -969,6 +975,12 @@
       "log_spam_fixer": "2025-06-05 19:58:31 +0000"
     },
     "done": false
+  },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2025-06-17 03:47:14 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -2162,6 +2174,12 @@
   "byg:root": {
     "criteria": {
       "tick": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-06-17 04:03:02 +0000"
     },
     "done": true
   },

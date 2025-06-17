@@ -1132,6 +1132,12 @@
     },
     "done": false
   },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2025-06-17 03:46:25 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -2211,6 +2217,12 @@
       "has_parent_recipe": "2025-06-06 04:10:46 +0000"
     },
     "done": false
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-06-17 03:51:03 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
