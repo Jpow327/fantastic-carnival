@@ -963,6 +963,12 @@
     },
     "done": true
   },
+  "simplyswords:mjolnir": {
+    "criteria": {
+      "requirement": "2025-06-17 23:34:37 +0000"
+    },
+    "done": true
+  },
   "endrem:main/nether_eye": {
     "criteria": {
       "nether_eye": "2025-06-09 03:51:39 +0000"
@@ -1518,6 +1524,12 @@
   "apotheosis:affix/gem_cut": {
     "criteria": {
       "cut": "2025-06-13 05:13:55 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:thunderbrand": {
+    "criteria": {
+      "requirement": "2025-06-17 23:23:05 +0000"
     },
     "done": true
   },
@@ -2711,6 +2723,12 @@
     },
     "done": true
   },
+  "simplyswords:soulpyre": {
+    "criteria": {
+      "requirement": "2025-06-17 23:27:20 +0000"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2025-06-06 03:10:24 +0000"
@@ -2805,12 +2823,6 @@
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-06-17 23:19:27 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
