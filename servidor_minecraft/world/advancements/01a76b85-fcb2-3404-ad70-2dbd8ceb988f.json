@@ -824,6 +824,12 @@
     },
     "done": false
   },
+  "cisco_mod:fitforaking": {
+    "criteria": {
+      "fitforaking": "2025-06-17 20:18:38 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -2349,6 +2355,12 @@
   "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
     "criteria": {
       "has_items": "2025-06-05 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-17 20:16:23 +0000"
     },
     "done": true
   },

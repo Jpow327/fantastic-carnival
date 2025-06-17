@@ -126,6 +126,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-06-17 20:28:56 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito_larva": {
     "criteria": {
       "rat_upgrade_basic": "2025-06-17 04:24:43 +0000"
@@ -140,7 +146,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-06-11 06:38:31 +0000"
+      "in_better_zombie_dungeon": "2025-06-11 06:38:31 +0000",
+      "in_better_spider_dungeon": "2025-06-17 20:58:27 +0000"
     },
     "done": false
   },
@@ -201,6 +208,12 @@
   "enigmaticlegacy:book/relics/void_pearl": {
     "criteria": {
       "has_items": "2025-06-11 04:02:29 +0000"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-06-17 20:09:18 +0000"
     },
     "done": true
   },
@@ -493,7 +506,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-06-05 21:28:22 +0000",
-      "opened_chest": "2025-06-05 16:38:33 +0000"
+      "opened_chest": "2025-06-05 16:38:33 +0000",
+      "opened_cart": "2025-06-17 20:28:56 +0000"
     },
     "done": false
   },
@@ -533,6 +547,7 @@
       "minecraft:magma_cube": "2025-06-05 22:02:24 +0000",
       "minecraft:spider": "2025-06-05 20:44:56 +0000",
       "minecraft:creeper": "2025-06-05 21:04:48 +0000",
+      "quark:forgotten": "2025-06-17 20:47:32 +0000",
       "minecraft:zombified_piglin": "2025-06-16 03:22:37 +0000",
       "minecraft:wither_skeleton": "2025-06-05 21:29:38 +0000",
       "minecraft:husk": "2025-06-11 05:11:35 +0000",
@@ -998,6 +1013,12 @@
     },
     "done": true
   },
+  "enemyexpansion:shotinthe_dark": {
+    "criteria": {
+      "shotinthe_dark_0": "2025-06-17 20:57:58 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/false_justice": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -1088,6 +1109,12 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-06-17 20:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-11 05:51:12 +0000",
@@ -1106,6 +1133,7 @@
       "minecraft:lukewarm_ocean": "2025-06-05 22:05:20 +0000",
       "minecraft:stony_shore": "2025-06-05 20:14:43 +0000",
       "minecraft:dripstone_caves": "2025-06-09 03:47:46 +0000",
+      "minecraft:swamp": "2025-06-17 21:00:19 +0000",
       "atmospheric:dunes": "2025-06-13 06:14:54 +0000",
       "minecraft:forest": "2025-06-05 21:35:54 +0000",
       "minecraft:lush_caves": "2025-06-05 20:52:32 +0000",
@@ -1834,6 +1862,12 @@
     },
     "done": false
   },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-06-17 20:46:39 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/brewing/haste_potion": {
     "criteria": {
       "has_items": "2025-06-16 03:21:27 +0000"
@@ -2106,6 +2140,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-17 20:58:27 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/cursed_xp_scroll": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -2177,6 +2217,12 @@
   "cisco_mod:adventurer_ad": {
     "criteria": {
       "adventurer_ad": "2025-06-05 21:21:54 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-06-17 19:51:21 +0000"
     },
     "done": true
   },
