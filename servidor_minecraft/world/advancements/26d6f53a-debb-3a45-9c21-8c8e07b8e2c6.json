@@ -333,6 +333,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/escape_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 01:51:10 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2025-06-09 03:59:14 +0000"
@@ -460,7 +466,9 @@
       "minecraft:piglin": "2025-06-16 02:34:57 +0000",
       "minecraft:stray": "2025-06-13 02:47:01 +0000",
       "minecraft:enderman": "2025-06-15 04:32:49 +0000",
-      "minecraft:zombie": "2025-06-09 03:54:26 +0000"
+      "minecraft:zombie": "2025-06-09 03:54:26 +0000",
+      "minecraft:zombie_villager": "2025-06-17 01:46:38 +0000",
+      "savage_and_ravage:skeleton_villager": "2025-06-17 01:41:51 +0000"
     },
     "done": false
   },
@@ -1023,6 +1031,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-17 01:51:10 +0000"
+    },
+    "done": false
+  },
   "apotheosis:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2025-06-13 03:32:35 +0000"
@@ -1170,6 +1184,12 @@
   "enigmaticlegacy:book/misc/extradimensional_eye": {
     "criteria": {
       "has_the_recipe": "2025-06-13 04:04:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/heaven_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 01:51:10 +0000"
     },
     "done": true
   },
@@ -1375,9 +1395,10 @@
   },
   "enigmaticlegacy:recipes/generic/heaven_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-06-17 01:51:10 +0000",
       "has_items": "2025-06-16 00:11:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_pink_from_white": {
     "criteria": {
@@ -1394,6 +1415,12 @@
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-06-06 04:35:22 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 01:51:10 +0000"
     },
     "done": true
   },
@@ -1545,6 +1572,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2025-06-17 01:51:10 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-06-10 03:22:55 +0000"
@@ -1668,9 +1701,10 @@
   },
   "enigmaticlegacy:recipes/generic/fabulous_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-06-17 01:51:10 +0000",
       "has_items": "2025-06-11 03:43:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_lime_from_white": {
     "criteria": {
@@ -1807,13 +1841,20 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-06-17 01:51:10 +0000",
       "has_items": "2025-06-09 03:58:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_fragment": {
+    "criteria": {
+      "has_items": "2025-06-17 01:51:10 +0000"
     },
     "done": true
   },
@@ -1843,9 +1884,10 @@
   },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-06-17 01:51:10 +0000",
       "has_items": "2025-06-13 02:08:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
@@ -2137,6 +2179,18 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 01:51:10 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2025-06-17 01:51:10 +0000"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2025-06-06 04:23:29 +0000"
@@ -2307,6 +2361,7 @@
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
+      "has_parent_recipe": "2025-06-17 01:51:10 +0000",
       "has_items2": "2025-06-11 05:26:03 +0000"
     },
     "done": false
@@ -2320,6 +2375,12 @@
   "incendium:technical/on_kill": {
     "criteria": {
       "log_spam_fixer": "2025-06-06 04:23:29 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-17 01:51:10 +0000"
     },
     "done": false
   },

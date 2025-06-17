@@ -13,6 +13,6 @@
 		{ dim: "minecraft:overworld", x: 1763, y: 4, z: 2610, time: 1749960526866L, xRot: 64.949776f, yRot: -117.75027f }
 	]
 	homes: {
-		casa: { dim: "minecraft:overworld", x: 2185, y: 106, z: 863, time: 1749783633089L, xRot: 55.499428f, yRot: 177.38664f }
+		casa: { dim: "minecraft:overworld", x: 2218, y: 106, z: 865, time: 1750125657631L, xRot: 13.949293f, yRot: -143.91167f }
 	}
 }
