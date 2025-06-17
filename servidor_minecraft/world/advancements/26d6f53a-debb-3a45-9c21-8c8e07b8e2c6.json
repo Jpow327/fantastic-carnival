@@ -1121,6 +1121,12 @@
     },
     "done": true
   },
+  "cisco_mod:sleeping_sword": {
+    "criteria": {
+      "sleeping_sword": "2025-06-17 03:13:25 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/forger_gem": {
     "criteria": {
       "has_items": "2025-06-11 04:10:04 +0000"
@@ -1481,6 +1487,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2025-06-11 00:20:20 +0000",
+      "pumpkin_pie": "2025-06-17 03:13:34 +0000",
       "bread": "2025-06-09 03:42:41 +0000",
       "golden_apple": "2025-06-11 04:20:53 +0000",
       "enchanted_golden_apple": "2025-06-16 02:23:37 +0000"
@@ -2266,12 +2273,6 @@
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-06-17 02:59:11 +0000"
-    },
-    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {

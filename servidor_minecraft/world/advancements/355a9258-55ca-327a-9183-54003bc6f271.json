@@ -138,6 +138,12 @@
     },
     "done": true
   },
+  "royalvariations:explosive_king": {
+    "criteria": {
+      "explosive_king": "2025-06-17 03:06:30 +0000"
+    },
+    "done": true
+  },
   "vinery:oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -153,6 +159,12 @@
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-06-17 03:12:13 +0000"
     },
     "done": true
   },
@@ -261,6 +273,12 @@
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-06-09 04:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-17 03:12:15 +0000"
     },
     "done": true
   },
@@ -1136,6 +1154,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-06-08 00:43:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-08 00:41:36 +0000",
       "atmospheric:laurel_forest": "2025-06-16 00:53:07 +0000",
+      "minecraft:deep_dark": "2025-06-17 03:12:13 +0000",
       "minecraft:meadow": "2025-06-13 03:09:06 +0000",
       "minecraft:savanna": "2025-06-06 03:50:41 +0000",
       "minecraft:plains": "2025-06-06 03:33:03 +0000"
@@ -1301,6 +1320,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "diamond_knife": "2025-06-11 03:18:56 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-06-17 03:17:38 +0000"
     },
     "done": true
   },
@@ -1598,6 +1623,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2025-06-17 03:17:38 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/super_magnet_ring": {
     "criteria": {
       "has_the_recipe": "2025-06-10 03:44:46 +0000"
@@ -1811,7 +1842,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-06-13 02:59:11 +0000"
+      "phantom": "2025-06-13 02:59:11 +0000",
+      "warden": "2025-06-17 03:13:36 +0000"
     },
     "done": false
   },
@@ -2294,6 +2326,18 @@
     },
     "done": false
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-06-17 03:13:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-06-17 03:07:36 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
       "has_parent_recipe": "2025-06-06 03:16:06 +0000",
@@ -2495,6 +2539,7 @@
     "criteria": {
       "byg:allium_fields": "2025-06-06 04:14:38 +0000",
       "byg:rainbow_beach": "2025-06-08 00:53:42 +0000",
+      "byg:orchard": "2025-06-17 03:02:37 +0000",
       "byg:red_oak_forest": "2025-06-08 00:53:11 +0000",
       "byg:redwood_thicket": "2025-06-08 00:57:58 +0000",
       "byg:fragment_forest": "2025-06-09 03:44:10 +0000",
@@ -2577,6 +2622,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-17 03:22:34 +0000"
+    },
+    "done": false
+  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-06-08 00:31:37 +0000"
@@ -2606,6 +2657,12 @@
       "has_items": "2025-06-11 05:05:04 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_oak": "2025-06-17 03:07:10 +0000"
+    },
+    "done": false
   },
   "dungeons_plus:adventure/find_tower": {
     "criteria": {
@@ -2746,6 +2803,12 @@
   "majruszsdifficulty:kill_yourself": {
     "criteria": {
       "kill_yourself": "2025-06-15 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-06-17 03:19:50 +0000"
     },
     "done": true
   },

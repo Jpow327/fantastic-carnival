@@ -354,6 +354,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-06-17 03:14:25 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/novelty_hat": {
     "criteria": {
       "sopa_de_macaco": "2025-06-13 03:39:14 +0000"
@@ -2178,6 +2184,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-06-05 21:57:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-06-17 03:08:39 +0000"
     },
     "done": true
   },

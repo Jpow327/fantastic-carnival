@@ -418,6 +418,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-06-17 03:19:44 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/enchantment_transposer": {
     "criteria": {
       "has_items": "2025-06-09 03:31:25 +0000"
@@ -659,6 +665,12 @@
   "majruszsaccessories:dream_catcher": {
     "criteria": {
       "picked_up_accessory": "2025-06-05 20:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-17 03:06:02 +0000"
     },
     "done": true
   },
@@ -2505,6 +2517,12 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-06-17 03:22:33 +0000"
+    },
+    "done": true
+  },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:allium_fields": "2025-06-08 00:39:11 +0000",
@@ -2580,7 +2598,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-06-17 01:21:59 +0000"
+      "!bit13": "2025-06-17 03:29:35 +0000",
+      "!bit14": "2025-06-17 03:29:35 +0000",
+      "!bit11": "2025-06-17 03:29:35 +0000",
+      "!bit12": "2025-06-17 03:29:35 +0000",
+      "!bit10": "2025-06-17 03:29:35 +0000",
+      "!bit9": "2025-06-17 03:29:35 +0000",
+      "!bit8": "2025-06-17 03:29:35 +0000",
+      "!bit7": "2025-06-17 03:29:35 +0000",
+      "!bit6": "2025-06-17 03:29:35 +0000",
+      "!bit5": "2025-06-17 03:29:35 +0000",
+      "!bit4": "2025-06-17 03:29:35 +0000",
+      "!bit3": "2025-06-17 03:29:35 +0000",
+      "!bit2": "2025-06-17 03:29:35 +0000",
+      "!bit1": "2025-06-17 03:29:35 +0000",
+      "!bit0": "2025-06-17 03:29:35 +0000"
     },
     "done": false
   },
