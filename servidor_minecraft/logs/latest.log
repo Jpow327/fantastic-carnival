@@ -4426,3 +4426,19 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [17Jun2025 01:59:39.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> lo quieres juan xD
 [17Jun2025 01:59:48.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> nah XD
 [17Jun2025 01:59:57.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> permiso juan
+[17Jun2025 02:03:25.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> y la scroll forge?
+[17Jun2025 02:03:27.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2155, y=90, z=898} BlockPos{x=2156, y=90, z=896}
+[17Jun2025 02:03:36.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2151, y=79, z=903} BlockPos{x=2150, y=81, z=903}
+[17Jun2025 02:03:36.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2150, y=80, z=903} BlockPos{x=2150, y=81, z=903}
+[17Jun2025 02:03:43.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> no hay
+[17Jun2025 02:03:44.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> :"v
+[17Jun2025 02:04:52.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2141, y=16, z=912} BlockPos{x=2140, y=16, z=912}
+[17Jun2025 02:04:52.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2141, y=16, z=912} BlockPos{x=2140, y=16, z=912}
+[17Jun2025 02:05:29.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2134, y=9, z=942} BlockPos{x=2133, y=9, z=942}
+[17Jun2025 02:05:29.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2135, y=12, z=941} BlockPos{x=2133, y=9, z=942}
+[17Jun2025 02:05:29.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2135, y=12, z=941} BlockPos{x=2133, y=9, z=942}
+[17Jun2025 02:05:32.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2135, y=10, z=940} BlockPos{x=2135, y=10, z=941}
+[17Jun2025 02:05:34.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Multi-Disciplined]
+[17Jun2025 02:05:48.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2136, y=10, z=937} BlockPos{x=2136, y=9, z=938}
+[17Jun2025 02:05:48.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2136, y=10, z=937} BlockPos{x=2136, y=9, z=938}
+[17Jun2025 02:11:33.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has completed the challenge [Hope Fades]
