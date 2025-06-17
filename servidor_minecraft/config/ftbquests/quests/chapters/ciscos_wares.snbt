@@ -342,6 +342,7 @@
 			icon: "skilltree:wisdom_scroll"
 			id: "6C141F245A25CAD5"
 			rewards: [{
+				count: 5
 				id: "24DC8673A30C26B0"
 				item: "skilltree:wisdom_scroll"
 				type: "item"
@@ -350,7 +351,7 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 5L
+				count: 25L
 				id: "26426542004ABF35"
 				item: "cisco_mod:champion_coin"
 				type: "item"
