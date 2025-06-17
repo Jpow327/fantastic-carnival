@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/novelty_hat": {
+    "criteria": {
+      "sopa_de_macaco": "2025-06-17 01:20:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-06 03:18:04 +0000"
@@ -2538,6 +2544,12 @@
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-17 01:40:25 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
