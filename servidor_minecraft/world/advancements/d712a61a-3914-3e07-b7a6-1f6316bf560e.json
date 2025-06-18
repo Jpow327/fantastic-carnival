@@ -576,6 +576,12 @@
     },
     "done": true
   },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-06-18 01:27:23 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone1": "2025-06-11 03:33:37 +0000",
@@ -1358,6 +1364,12 @@
   "simplyswords:shadowsting": {
     "criteria": {
       "requirement": "2025-06-15 04:28:29 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:frostfall": {
+    "criteria": {
+      "requirement": "2025-06-18 01:26:11 +0000"
     },
     "done": true
   },
