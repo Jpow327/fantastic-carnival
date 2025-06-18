@@ -2123,6 +2123,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-06-18 04:30:37 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
       "has_parent_recipe": "2025-06-05 20:04:54 +0000",
@@ -2386,12 +2392,6 @@
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-06-18 04:08:24 +0000"
-    },
-    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
