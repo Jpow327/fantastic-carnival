@@ -4030,3 +4030,80 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [18Jun2025 01:00:54.350] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [18Jun2025 01:00:54.350] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [18Jun2025 01:01:03.295] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[18Jun2025 01:01:09.252] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 01:01:09.253] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 01:01:19.992] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 01:01:45.192] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 01:01:45.193] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:01:45.193] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:01:45.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 01:01:45.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:01:45.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 01:01:45.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:04:38.747] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 01:04:38.747] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 01:04:38.747] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[18Jun2025 01:04:55.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityGrizzlyBear['Cheryl'/11023, l='ServerLevel[world]', x=2296.98, y=40.00, z=-252.91] died: Cheryl was slain by art
+[18Jun2025 01:05:26.695] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:05:26.695] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[18Jun2025 01:06:06.947] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[18Jun2025 01:06:06.948] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:06:27.103] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[18Jun2025 01:06:32.203] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 01:06:32.203] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:06:32.203] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[18Jun2025 01:06:32.203] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[18Jun2025 01:07:01.851] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:07:01.851] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:07:18.509] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[18Jun2025 01:07:18.518] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[18Jun2025 01:07:18.566] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[18Jun2025 01:07:18.619] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[18Jun2025 01:07:18.686] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[18Jun2025 01:07:18.724] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[18Jun2025 01:07:18.792] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Jun2025 01:07:18.821] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Jun2025 01:07:18.877] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Jun2025 01:07:18.918] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Jun2025 01:07:18.975] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Jun2025 01:07:19.018] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Jun2025 01:07:19.623] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Jun2025 01:07:19.623] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Jun2025 01:07:19.725] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[18Jun2025 01:07:19.809] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3aa1b669
+[18Jun2025 01:07:19.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChristianR3aper[/10.147.17.175:55304] logged in with entity id 11619 at (2243.618993222586, 104.0, 814.4599020983469)
+[18Jun2025 01:07:19.865] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChristianR3aper
+[18Jun2025 01:07:19.865] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChristianR3aper
+[18Jun2025 01:07:19.865] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChristianR3aper
+[18Jun2025 01:07:19.865] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChristianR3aper
+[18Jun2025 01:07:19.867] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChristianR3aper
+[18Jun2025 01:07:19.868] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChristianR3aper
+[18Jun2025 01:07:19.868] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChristianR3aper
+[18Jun2025 01:07:19.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper joined the game
+[18Jun2025 01:07:20.009] [Server thread/INFO] [Jade/]: Syncing config to ChristianR3aper (01a76b85-fcb2-3404-ad70-2dbd8ceb988f)
+[18Jun2025 01:07:20.092] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ChristianR3aper...
+[18Jun2025 01:07:20.093] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Jun2025 01:07:20.094] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Jun2025 01:07:20.094] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ChristianR3aper
+[18Jun2025 01:07:20.254] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 01:08:02.006] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 01:08:02.006] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:08:29.860] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 01:08:29.860] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[18Jun2025 01:08:29.860] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:08:40.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2350, y=43, z=-368} BlockPos{x=2350, y=42, z=-368}
+[18Jun2025 01:08:40.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2350, y=43, z=-368} BlockPos{x=2350, y=42, z=-368}
+[18Jun2025 01:09:28.399] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[18Jun2025 01:09:28.399] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:09:28.399] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 01:09:28.399] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:09:39.297] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 01:09:39.297] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[18Jun2025 01:09:39.298] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:09:48.798] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 01:09:48.798] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:09:48.798] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[18Jun2025 01:09:48.799] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:10:00.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: art moved wrongly!
+[18Jun2025 01:11:04.007] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[18Jun2025 01:11:04.008] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
