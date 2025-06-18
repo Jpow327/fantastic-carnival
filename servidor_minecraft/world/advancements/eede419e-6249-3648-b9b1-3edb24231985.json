@@ -666,6 +666,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-06-18 00:01:13 +0000"
+    },
+    "done": true
+  },
   "undead_unleashed:nerves_of_steel": {
     "criteria": {
       "nerves_of_steel": "2025-06-05 22:11:42 +0000"
@@ -1519,7 +1525,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_jungle": "2025-06-05 20:22:26 +0000"
+      "in_pyramid_jungle": "2025-06-05 20:22:26 +0000",
+      "in_pyramid_badlands": "2025-06-18 00:09:35 +0000"
     },
     "done": false
   },
@@ -2485,6 +2492,12 @@
     },
     "done": true
   },
+  "majruszsenchantments:scholar": {
+    "criteria": {
+      "has_met_requirement": "2025-06-18 00:04:50 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -2647,6 +2660,7 @@
       "byg:baobab_savanna": "2025-06-05 21:24:03 +0000",
       "byg:amaranth_fields": "2025-06-08 00:40:18 +0000",
       "byg:ebony_woods": "2025-06-05 20:45:18 +0000",
+      "byg:mojave_desert": "2025-06-18 00:01:10 +0000",
       "byg:dacite_shore": "2025-06-11 05:51:23 +0000"
     },
     "done": false
@@ -2704,6 +2718,26 @@
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-06-18 00:19:39 +0000",
+      "!bit14": "2025-06-18 00:19:39 +0000",
+      "!bit11": "2025-06-18 00:19:39 +0000",
+      "!bit12": "2025-06-18 00:19:39 +0000",
+      "!bit10": "2025-06-18 00:19:39 +0000",
+      "!bit9": "2025-06-18 00:19:39 +0000",
+      "!bit8": "2025-06-18 00:19:39 +0000",
+      "!bit7": "2025-06-18 00:19:39 +0000",
+      "!bit6": "2025-06-18 00:19:39 +0000",
+      "!bit5": "2025-06-18 00:19:39 +0000",
+      "!bit4": "2025-06-18 00:19:39 +0000",
+      "!bit3": "2025-06-18 00:19:39 +0000",
+      "!bit2": "2025-06-18 00:19:39 +0000",
+      "!bit1": "2025-06-18 00:19:39 +0000",
+      "!bit0": "2025-06-18 00:19:39 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
