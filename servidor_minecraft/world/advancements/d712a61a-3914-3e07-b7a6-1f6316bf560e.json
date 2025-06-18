@@ -1409,6 +1409,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:certificate_of_taming": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-18 00:36:58 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/heaven_scroll": {
     "criteria": {
       "has_the_recipe": "2025-06-17 02:38:45 +0000"
@@ -2597,6 +2603,7 @@
       "byg:wailing_garth": "2025-06-16 03:48:20 +0000",
       "byg:crag_gardens": "2025-06-06 03:28:32 +0000",
       "byg:aspen_forest": "2025-06-18 00:14:22 +0000",
+      "byg:skyris_vale": "2025-06-18 00:35:03 +0000",
       "byg:forgotten_forest": "2025-06-06 03:10:43 +0000",
       "byg:crimson_gardens": "2025-06-16 03:05:32 +0000",
       "byg:baobab_savanna": "2025-06-06 03:41:33 +0000",
