@@ -2726,6 +2726,12 @@
     },
     "done": false
   },
+  "totw_modded:ice_tower": {
+    "criteria": {
+      "ice": "2025-06-18 00:48:49 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-06-06 03:10:42 +0000"

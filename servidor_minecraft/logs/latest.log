@@ -3883,3 +3883,150 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [18Jun2025 00:50:08.106] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
 [18Jun2025 00:50:08.107] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [18Jun2025 00:50:08.107] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:50:10.747] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[18Jun2025 00:50:10.748] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[18Jun2025 00:50:10.806] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[18Jun2025 00:50:11.134] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
+[18Jun2025 00:50:15.010] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:50:15.010] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:50:15.010] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:50:15.010] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:50:15.554] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:50:15.554] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:50:15.555] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[18Jun2025 00:50:15.616] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[18Jun2025 00:50:15.617] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[18Jun2025 00:50:17.417] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:50:17.417] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:50:17.417] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:50:22.662] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:50:22.662] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:50:22.662] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:50:23.036] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[18Jun2025 00:50:23.037] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:50:23.038] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:50:23.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:50:23.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:50:23.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[18Jun2025 00:50:28.468] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:50:28.469] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[18Jun2025 00:50:29.271] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:50:29.271] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:50:29.271] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[18Jun2025 00:50:29.410] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:50:29.410] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[18Jun2025 00:50:29.410] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[18Jun2025 00:50:29.684] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:50:29.684] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:50:29.684] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[18Jun2025 00:50:45.059] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:50:45.060] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:50:55.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> encontre
+[18Jun2025 00:50:59.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> que
+[18Jun2025 00:51:15.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> lo brujas
+[18Jun2025 00:51:25.062] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[18Jun2025 00:51:27.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> xD
+[18Jun2025 00:51:50.966] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[18Jun2025 00:51:50.967] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[18Jun2025 00:51:50.967] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[18Jun2025 00:51:50.967] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[18Jun2025 00:51:50.967] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[18Jun2025 00:51:50.967] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[18Jun2025 00:51:51.999] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Jun2025 00:51:51.999] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Jun2025 00:51:51.999] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Jun2025 00:51:51.999] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Jun2025 00:51:52.000] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Jun2025 00:51:52.470] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Jun2025 00:51:53.010] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Jun2025 00:51:53.011] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Jun2025 00:51:53.013] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[18Jun2025 00:52:36.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Earl Jonskel the Head of Potatoes'/7909, l='ServerLevel[world]', x=2369.08, y=62.00, z=-331.65] died: Earl Jonskel the Head of Potatoes was slain by Jaime_A1
+[18Jun2025 00:52:38.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Uzsahe the Endborn'/6458, l='ServerLevel[world]', x=2367.23, y=63.00, z=-330.31] died: Uzsahe the Endborn was slain by Jaime_A1
+[18Jun2025 00:52:58.663] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[18Jun2025 00:53:10.191] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:53:10.191] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:53:10.191] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:53:18.372] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[18Jun2025 00:53:22.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: art lost connection: Disconnected
+[18Jun2025 00:53:22.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art left the game
+[18Jun2025 00:53:22.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: art[/10.147.17.72:52798] logged in with entity id 7728 at (2350.8266775641096, 59.0, -305.9845335979644)
+[18Jun2025 00:53:22.711] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to art
+[18Jun2025 00:53:22.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to art
+[18Jun2025 00:53:22.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to art
+[18Jun2025 00:53:22.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to art
+[18Jun2025 00:53:22.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to art
+[18Jun2025 00:53:22.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to art
+[18Jun2025 00:53:22.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to art
+[18Jun2025 00:53:22.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art joined the game
+[18Jun2025 00:53:22.853] [Server thread/INFO] [Jade/]: Syncing config to art (26d6f53a-debb-3a45-9c21-8c8e07b8e2c6)
+[18Jun2025 00:53:22.882] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to art...
+[18Jun2025 00:53:22.884] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Jun2025 00:53:22.885] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Jun2025 00:53:22.886] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to art
+[18Jun2025 00:53:43.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> a
+[18Jun2025 00:53:49.192] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[18Jun2025 00:53:49.193] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:53:49.193] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:53:50.902] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:53:50.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[18Jun2025 00:53:50.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:53:51.827] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/justinwon777/humancompanions/entity/ai/ArbalistRangedCrossbowAttackGoal$CrossbowState
+[18Jun2025 00:53:52.089] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:53:52.089] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[18Jun2025 00:53:52.089] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:53:52.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> estoy en dung
+[18Jun2025 00:53:53.228] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[18Jun2025 00:54:09.897] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2539, y=75, z=-517} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[18Jun2025 00:54:09.897] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=2539, y=75, z=-517}
+[18Jun2025 00:54:18.998] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:54:18.998] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:54:18.998] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[18Jun2025 00:55:04.541] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[18Jun2025 00:55:04.542] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:55:04.542] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:55:32.499] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:55:32.499] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:55:32.499] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:55:55.289] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:55:55.289] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[18Jun2025 00:55:55.289] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:56:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> juan reparacion hay xD
+[18Jun2025 00:57:19.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> juan
+[18Jun2025 00:57:19.878] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/network/ServerBoundCycleQuiverPacket$Slot
+[18Jun2025 00:57:28.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> q
+[18Jun2025 00:57:41.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> libros de reparacion
+[18Jun2025 00:57:48.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> los aldeanos
+[18Jun2025 00:58:04.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> no hay xD
+[18Jun2025 00:58:08.345] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:58:18.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> si hay
+[18Jun2025 00:58:21.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> dile a tana
+[18Jun2025 00:58:22.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[18Jun2025 00:58:25.998] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:58:25.998] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:58:25.998] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:58:33.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> se esta bañando
+[18Jun2025 00:58:36.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:58:36.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:58:36.094] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:58:36.094] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:58:42.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> pero estoy biendo los aldeanos y no estan
+[18Jun2025 00:59:02.445] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[18Jun2025 00:59:02.445] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[18Jun2025 00:59:02.446] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:59:02.446] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:59:02.446] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:59:07.094] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[18Jun2025 00:59:07.094] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:59:07.095] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 00:59:07.095] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[18Jun2025 00:59:32.995] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[18Jun2025 00:59:32.996] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 00:59:32.996] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[18Jun2025 00:59:32.996] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[18Jun2025 00:59:42.655] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[18Jun2025 01:00:29.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> uno de los de abajo segun recuerdo
+[18Jun2025 01:00:54.350] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:00:54.350] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[18Jun2025 01:00:54.350] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[18Jun2025 01:01:03.295] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
