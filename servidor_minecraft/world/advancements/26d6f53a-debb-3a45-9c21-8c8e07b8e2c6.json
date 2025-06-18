@@ -499,6 +499,7 @@
       "minecraft:blaze": "2025-06-15 03:22:07 +0000",
       "minecraft:skeleton": "2025-06-10 03:24:19 +0000",
       "minecraft:hoglin": "2025-06-16 03:01:53 +0000",
+      "minecraft:vindicator": "2025-06-18 04:05:18 +0000",
       "minecraft:magma_cube": "2025-06-16 02:11:06 +0000",
       "minecraft:spider": "2025-06-09 04:11:37 +0000",
       "minecraft:piglin_brute": "2025-06-16 02:26:24 +0000",
@@ -568,6 +569,12 @@
       "has_parent_recipe": "2025-06-11 03:43:10 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-18 03:57:13 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/tools/forbidden_axe": {
     "criteria": {
@@ -1084,6 +1091,12 @@
     },
     "done": false
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-18 03:01:24 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -1531,6 +1544,12 @@
     },
     "done": true
   },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2025-06-18 04:03:51 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/arcane_scrolls": {
     "criteria": {
       "has_the_recipe": "2025-06-17 01:51:10 +0000"
@@ -1604,6 +1623,12 @@
   "vinery:birch_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-06-18 03:42:25 +0000"
     },
     "done": true
   },
@@ -2366,6 +2391,8 @@
       "byg:baobab_savanna": "2025-06-09 04:16:41 +0000",
       "byg:amaranth_fields": "2025-06-16 00:41:23 +0000",
       "byg:ebony_woods": "2025-06-09 03:44:35 +0000",
+      "byg:basalt_barrera": "2025-06-18 03:46:40 +0000",
+      "byg:lush_stacks": "2025-06-18 03:46:45 +0000",
       "byg:mojave_desert": "2025-06-18 00:15:20 +0000",
       "byg:dacite_shore": "2025-06-17 03:43:57 +0000"
     },
@@ -2415,7 +2442,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-06-18 02:57:51 +0000"
+      "!bit13": "2025-06-18 04:07:31 +0000",
+      "!bit14": "2025-06-18 04:07:31 +0000",
+      "!bit11": "2025-06-18 04:07:31 +0000",
+      "!bit12": "2025-06-18 04:07:31 +0000",
+      "!bit10": "2025-06-18 04:07:31 +0000",
+      "!bit9": "2025-06-18 04:07:31 +0000",
+      "!bit8": "2025-06-18 04:07:31 +0000",
+      "!bit7": "2025-06-18 04:07:31 +0000",
+      "!bit6": "2025-06-18 04:07:31 +0000",
+      "!bit5": "2025-06-18 04:07:31 +0000",
+      "!bit4": "2025-06-18 04:07:31 +0000",
+      "!bit3": "2025-06-18 04:07:31 +0000",
+      "!bit2": "2025-06-18 04:07:31 +0000",
+      "!bit1": "2025-06-18 04:07:31 +0000",
+      "!bit0": "2025-06-18 04:07:31 +0000"
     },
     "done": false
   },

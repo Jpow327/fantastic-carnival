@@ -308,6 +308,7 @@
       "entered_hay_storage": "2025-06-06 04:13:18 +0000",
       "entered_flying_dutchman": "2025-06-08 00:44:26 +0000",
       "entered_druid_circle": "2025-06-17 23:11:17 +0000",
+      "entered_large_dungeon": "2025-06-18 03:37:05 +0000",
       "entered_ruined_building": "2025-06-08 00:29:46 +0000"
     },
     "done": false
@@ -486,6 +487,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-06-18 03:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-06-06 03:23:00 +0000"
@@ -501,6 +508,12 @@
   "simplyswords:storms_edge": {
     "criteria": {
       "requirement": "2025-06-15 04:35:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-06-18 03:37:05 +0000"
     },
     "done": true
   },
@@ -584,6 +597,7 @@
       "minecraft:blaze": "2025-06-15 03:22:01 +0000",
       "minecraft:skeleton": "2025-06-06 04:03:46 +0000",
       "savage_and_ravage:creepie": "2025-06-15 02:37:50 +0000",
+      "minecraft:ravager": "2025-06-18 03:40:23 +0000",
       "minecraft:vindicator": "2025-06-15 01:32:23 +0000",
       "minecraft:magma_cube": "2025-06-16 02:19:51 +0000",
       "minecraft:spider": "2025-06-06 04:13:00 +0000",
@@ -594,6 +608,7 @@
       "quark:forgotten": "2025-06-07 23:53:40 +0000",
       "minecraft:phantom": "2025-06-13 02:59:11 +0000",
       "minecraft:zombified_piglin": "2025-06-16 03:21:10 +0000",
+      "minecraft:witch": "2025-06-18 04:00:13 +0000",
       "minecraft:wither_skeleton": "2025-06-09 04:12:08 +0000",
       "minecraft:husk": "2025-06-11 03:37:31 +0000",
       "minecraft:cave_spider": "2025-06-06 04:04:40 +0000",
@@ -1874,6 +1889,12 @@
     },
     "done": true
   },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2025-06-18 03:52:56 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-06-09 04:28:00 +0000"
@@ -2792,6 +2813,7 @@
       "byg:baobab_savanna": "2025-06-06 03:50:03 +0000",
       "byg:amaranth_fields": "2025-06-08 00:57:21 +0000",
       "byg:ebony_woods": "2025-06-09 03:46:32 +0000",
+      "byg:lush_stacks": "2025-06-18 03:43:37 +0000",
       "byg:temperate_rainforest": "2025-06-16 00:45:25 +0000",
       "byg:mojave_desert": "2025-06-18 00:14:46 +0000",
       "byg:dacite_shore": "2025-06-08 00:35:48 +0000"
