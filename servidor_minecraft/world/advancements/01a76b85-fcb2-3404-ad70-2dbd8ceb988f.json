@@ -243,6 +243,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_pirate_ship": "2025-06-18 02:52:54 +0000",
       "entered_druid_circle": "2025-06-13 05:30:37 +0000"
     },
     "done": false
@@ -472,6 +473,7 @@
       "minecraft:magma_cube": "2025-06-05 21:59:55 +0000",
       "minecraft:spider": "2025-06-05 22:10:58 +0000",
       "minecraft:creeper": "2025-06-05 20:46:26 +0000",
+      "minecraft:evoker": "2025-06-18 02:54:56 +0000",
       "minecraft:phantom": "2025-06-17 04:29:06 +0000",
       "minecraft:zombified_piglin": "2025-06-05 22:02:45 +0000",
       "minecraft:wither_skeleton": "2025-06-05 20:13:09 +0000",
@@ -480,6 +482,7 @@
       "minecraft:silverfish": "2025-06-06 04:00:56 +0000",
       "minecraft:stray": "2025-06-06 04:38:42 +0000",
       "minecraft:enderman": "2025-06-11 06:15:09 +0000",
+      "minecraft:vex": "2025-06-18 02:54:52 +0000",
       "minecraft:zombie": "2025-06-05 20:42:00 +0000",
       "quark:foxhound": "2025-06-05 21:58:40 +0000",
       "minecraft:drowned": "2025-06-05 22:04:57 +0000"
@@ -994,7 +997,10 @@
       "minecraft:swamp": "2025-06-17 21:31:06 +0000",
       "atmospheric:dunes": "2025-06-13 06:15:35 +0000",
       "minecraft:forest": "2025-06-05 21:35:59 +0000",
+      "minecraft:desert": "2025-06-18 02:57:53 +0000",
       "minecraft:ocean": "2025-06-17 21:26:44 +0000",
+      "minecraft:warm_ocean": "2025-06-18 02:52:42 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-18 02:59:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-17 21:24:36 +0000",
       "minecraft:meadow": "2025-06-13 05:04:25 +0000",
       "minecraft:savanna": "2025-06-06 03:45:38 +0000",
@@ -1653,6 +1659,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-06-18 02:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-05 20:07:43 +0000"
@@ -2292,7 +2304,9 @@
       "byg:skyris_vale": "2025-06-18 01:30:37 +0000",
       "byg:forgotten_forest": "2025-06-05 19:58:31 +0000",
       "byg:ebony_woods": "2025-06-05 20:46:32 +0000",
-      "byg:basalt_barrera": "2025-06-18 01:22:53 +0000"
+      "byg:basalt_barrera": "2025-06-18 01:22:53 +0000",
+      "byg:mojave_desert": "2025-06-18 02:51:19 +0000",
+      "byg:windswept_desert": "2025-06-18 02:52:38 +0000"
     },
     "done": false
   },
@@ -2343,6 +2357,12 @@
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-06-18 02:56:43 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
