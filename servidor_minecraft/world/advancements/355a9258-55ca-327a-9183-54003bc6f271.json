@@ -309,6 +309,7 @@
       "entered_flying_dutchman": "2025-06-08 00:44:26 +0000",
       "entered_druid_circle": "2025-06-17 23:11:17 +0000",
       "entered_large_dungeon": "2025-06-18 03:37:05 +0000",
+      "entered_sunken_shrine": "2025-06-18 04:46:35 +0000",
       "entered_ruined_building": "2025-06-08 00:29:46 +0000"
     },
     "done": false
@@ -490,6 +491,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
     "criteria": {
       "requirement": "2025-06-18 03:57:14 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
+    "criteria": {
+      "has_items": "2025-06-18 04:46:46 +0000"
     },
     "done": true
   },
@@ -692,6 +699,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-06-15 01:23:27 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2025-06-18 04:46:46 +0000"
     },
     "done": true
   },
@@ -1244,6 +1257,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-06-18 04:46:45 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-06-06 03:10:25 +0000"
@@ -1578,6 +1597,12 @@
       "has_the_recipe": "2025-06-08 00:18:23 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-18 04:46:46 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/accessories/heaven_scroll": {
     "criteria": {
@@ -2253,6 +2278,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-06-18 04:51:06 +0000",
       "fletchingtable": "2025-06-15 03:02:17 +0000",
       "brewingstand": "2025-06-16 02:55:04 +0000",
       "grindstone": "2025-06-16 03:42:49 +0000",
