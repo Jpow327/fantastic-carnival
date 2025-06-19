@@ -3746,3 +3746,5 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [19Jun2025 04:06:21.423] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [19Jun2025 04:06:21.423] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
 [19Jun2025 04:06:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [You're too Slow!]
+[19Jun2025 04:16:08.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Creative Mode]
+[19Jun2025 04:16:34.520] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
